@@ -1,0 +1,5 @@
+rdflib
+pandas
+IPython
+pydotplus
+confiparser
