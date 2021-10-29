@@ -24,8 +24,10 @@ IP = config['COMMON']['IP_FIELD']
 
 # DATA LOCATION VARIABLES
 DATA_FOLDER = BASE_DIR / config['DATA']['DATA_FOLDER']
-DATA_FILE = config['DATA']['DATA_FILE']
+DATA_FILE = DATA_FOLDER / config['DATA']['DATA_FILE']
 GRAPH_FOLDER = BASE_DIR / config['DATA']['GRAPH_FOLDER']
+ACTIONS_FILE = DATA_FOLDER /config['DATA']['ACTIONS']
+SENTENCES_FILE = DATA_FOLDER / config['DATA']['SENTENCES']
 
 DATE_RANGE = '30min'    # Examples: 1h30min, 1H(hours), 2D(days), 2W(weeks), 2M(months)
 

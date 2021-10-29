@@ -1,0 +1,54 @@
+action,verb
+course-view,has viewed course
+forum-view-discussion,has viewed forum discussion
+forum-view-forum,has viewed forum topic
+resource-view,has viewed resource
+turnitintool-view,
+forum-mail-error,
+forum-add-discussion,has added the forum discussion
+forum-mail-digest-error,
+assign-view,
+forum-add-post,has posted
+feedback-startcomplete,
+attforblock-attendance-taken,has attended
+assign-view-submit-assignment-form,
+attforblock-sessions-added,
+course-add-mod,
+assign-submit,
+assign-submission-statement-accepted,
+course-enrol,enrolled to
+course-view-section,has viewed course section
+forum-update-post,has updated the post
+resource-add,has added the resource
+course-report-log,
+forum-view-forums,
+discussion-mark-read,
+course-update-mod,
+user-view,
+forum-search,has searched in forum
+attforblock-sessions-deleted,
+label-add,
+resource-update,has updated the resource
+course-report-stats,
+assign-view-submission-grading-table,
+attforblock-report-viewed,
+forum-delete-discussion,has deleted forum discusion
+course-report-participation,
+course-recent,
+course-report-live,
+forum-stop-tracking,
+turnitintool-view-all,
+forum-start-tracking,
+forum-delete-post,has deleted forum post
+course-report-outline,
+label-update,
+forum-add,has added forum
+calendar-add,
+course-delete-mod,
+forum-update,has updated forum
+turnitintool-add,
+forum-view-subscribers,
+calendar-edit,
+assign-add,has added assignment
+attforblock-session-updated,
+assign-download-all-submissions,

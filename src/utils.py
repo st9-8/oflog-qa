@@ -1,5 +1,6 @@
-from settings import DATA_FOLDER, DATE_RANGE, DATE
+from settings import DATA_FOLDER, DATE_RANGE, DATE, ACTIONS_FILE, SENTENCES_FILE
 
+import csv
 import sys
 import logging
 import pandas as pd
@@ -30,7 +31,8 @@ def discretize_data(df):
 
     # Get time frames
     start_date, end_date = extract_start_end_date(df)
-    time_frames = pd.date_range(start=start_date, end=end_date, freq=DATE_RANGE)
+    time_frames = pd.date_range(
+        start=start_date, end=end_date, freq=DATE_RANGE)
 
     df_date_index = df.set_index(DATE)
 
@@ -78,10 +80,89 @@ def extract_action(action):
     """
 
     data = action.split('(')
-    action = '-'.join(data[0].strip().split())
+    action_desc = '-'.join(data[0].strip().split())
     uri = data[1].replace(')', '').strip()
 
-    return uri
+    return uri, action_desc
+
+
+def extract_actions_from_data(df):
+    """ 
+        Function used to extract all possibles actions from the logs data
+    """
+    def function(action):
+        data = action.split('(')
+        action_desc = '-'.join(data[0].strip().split())
+        return action_desc
+
+    actions = list(df['action'].apply(function).unique())
+
+    return actions
+
+
+def construct_sentences(g, key):
+    """
+        Utility function used to extract a sentence from a frame RDF graph
+    """
+    query = """
+            PREFIX oflog: <https://yaknema.com/oflog/1.0.0/>
+            PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+            
+            SELECT ?action_name ?resource_name ?resource_info ?subject_name
+            WHERE {
+                ?subject oflog:makes ?action .
+                
+                ?action oflog:on ?resource .
+                
+                ?action oflog:name ?action_name .
+                
+                ?subject foaf:name ?subject_name .
+                
+                ?resource oflog:hasInfo ?info .
+                
+                ?info oflog:content ?resource_info .
+                
+                ?resource oflog:name ?resource_name
+            }
+    """
+
+    verb_by_action = from_action_to_verb()
+    sentence = '{}.\n\n'
+    empty = True
+
+    with open(SENTENCES_FILE, 'a') as output_file:
+
+        sentences = []
+        for r in g.query(query):
+            empty = True
+            verb = verb_by_action.get(r['action_name'].toPython())
+
+            if verb:
+                sentence_chunk = f"{r['subject_name']} {verb} {r['resource_info']}"
+                sentences.append(sentence_chunk)
+                empty = False
+                logging.info(f'Frame {key}: {sentence_chunk}')
+
+        if not empty:
+            sentence = sentence.format(' and '.join(sentences))
+            output_file.write(sentence)
+
+
+def from_action_to_verb():
+    """
+        Utility function to provide a link between action and corresponding verb
+    """
+
+    get_verb_by_action = {}
+
+    with open(ACTIONS_FILE) as actions:
+        reader = csv.DictReader(actions)
+
+        for row in reader:
+            if row['verb']:
+                get_verb_by_action[row['action']] = row['verb'].strip()
+
+    return get_verb_by_action
 
 
 if __name__ == '__main__':
