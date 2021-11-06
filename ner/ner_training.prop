@@ -1,0 +1,27 @@
+trainFile = annoted_ner_data.tsv
+
+serializeTo = ner-model.ser.gz
+
+map = word=0,answer=1
+
+maxLeft=2
+
+useClassFeature=true
+useWord=true 
+useNGrams=true
+useWordTag=true
+useWordPairs=true
+useShapeConjunctions=True
+useSymTags=True
+useGazettes=true
+noMidNGrams=true
+usePrev=true
+useNext=true
+useDisjunctive=true
+useSequences=true
+usePrevSequences=true
+useOccurrencePatterns=true
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
