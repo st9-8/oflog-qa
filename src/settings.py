@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# author: st9_8
+
 from pathlib import Path
 
 import logging

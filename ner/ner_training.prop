@@ -5,6 +5,7 @@ serializeTo = ner-model.ser.gz
 map = word=0,answer=1
 
 maxLeft=2
+useMoreNeighborNGrams=true
 
 useClassFeature=true
 useWord=true 

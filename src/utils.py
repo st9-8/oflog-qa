@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# author: st9_8
+
 from settings import DATA_FOLDER, DATE_RANGE, DATE, ACTIONS_FILE, SENTENCES_FILE
 
 import csv

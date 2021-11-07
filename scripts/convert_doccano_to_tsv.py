@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# author: st9_8
+
+"""
+    Utility command line script used to convert doccano annotated file to tsv file format.
+    Usage:
+        python convert_doccano_to_tsv.py [filename]
+"""
+
+
 from pathlib import Path
 
 import sys
