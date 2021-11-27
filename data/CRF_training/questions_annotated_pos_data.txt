@@ -1,0 +1,555 @@
+which	course	has	been	viewed	by	MMF	ANB	MU	SA	KK
+WDT	NN	VBZ	VBN	VBN	IN	NNP	NNP	NNP	NNP	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	MA	MH
+WDT	NN	VBZ	VBN	VBN	IN	NNP	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	SA
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	NSC
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	AHK
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	UUH	or	AS
+WDT	NN	VBZ	VBN	VBN	IN	NNP	CC	IN
+
+who	are	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBP	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	KK	or	HM
+WDT	NN	VBZ	VBN	VBN	IN	NNP	CC	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	DA
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	SMH
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	MFF	and	ANB
+WDT	NN	VBZ	VBN	VBN	IN	NNP	CC	NNP
+
+which	course	has	been	viewed	by	HS	KAP	MAZ	HK
+WDT	NN	VBZ	VBN	VBN	IN	NNP	NNP	NNP	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	HM	or	MA
+WDT	NN	VBZ	VBN	VBN	IN	NNP	CC	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	MMA
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	MS
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+which	course	has	been	viewed	by	MS	and	MA
+WDT	NN	VBZ	VBN	VBN	IN	NNP	CC	NNP
+
+Which	course	SA	has	he	viewed
+JJ	NN	NNP	VBZ	PRP	VBD
+
+Who	viewed	course	CS260	Human	Computing	Interaction	BSCS3AB
+WP	VBD	NN	NNP	NNP	NNP	NNP	NNP
+
+Who	enrolled	to	CS260	Human	Computer	Interaction	and	who	viewed	it
+WP	VBD	TO	NNP	NNP	NNP	NNP	CC	WP	VBD	PRP
+
+Which	course	SAEH	has	he	enrolled	to	and	viewed
+JJ	NN	NNP	VBZ	PRP	VBD	TO	CC	VB
+
+Which	course	has	KK	viewed
+JJ	NN	VBZ	NNP	VBD
+
+Who	enrolled	to	CS260	Human	Computer	Interaction	and	who	viewed	it
+WP	VBD	TO	NNP	NNP	NNP	NNP	CC	WP	VBD	PRP
+
+which	course	has	been	viewed	by	SNK
+WDT	NN	VBZ	VBN	VBN	IN	NNP
+
+who	are	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBP	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN
+
+who	is	enrolled	to	CS260	Human	Computer	Interaction	BSCS3AB	course	and	has	viewed	this	course
+WP	VBZ	VBN	TO	NNP	NNP	NNP	NNP	NNP	NN	CC	VBZ	VBN	DT	NN
+
+Which	course	has	SNK	viewed
+JJ	NN	VBZ	NNP	VBD
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+Which	course	has	UZ	viewed
+JJ	NN	VBZ	VBN	VBN
+
+Which	course	has	SA	viewed
+JJ	NN	VBZ	NNP	VBD
+
+who	has	view	the	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBZ	NN	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+Which	course	has	MS	viewed
+JJ	NN	VBZ	NNP	VBD
+
+who	has	view	the	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBZ	NN	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+Who	has	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB	course	and	in	which	time
+WP	VBZ	VBN	DT	NNP	NNP	NNP	NNP	NNP	NN	CC	IN	WDT	NN
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP
+
+Which	course	been	viewed	by	AM
+WDT	NN	VBN	VBN	IN	NNP
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP
+
+Which	course	been	viewed	by	UZ
+WDT	NN	VBN	VBN	IN	NNP
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP
+
+Which	course	been	viewed	by	HM
+WDT	NN	VBN	VBN	IN	NNP
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP
+
+Which	course	been	viewed	by	HMA
+WDT	NN	VBN	VBN	IN	NNP
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP
+
+at	which	time	HM	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB	course
+IN	WDT	NN	NNP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB	course	5	times
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN	CD	NNS
+
+at	which	time	HM	attended	the	CS260	Human	Computer	Interaction	BSCS3AB	course
+IN	WDT	NN	NNP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+who	attended	the	CS260	Human	Computer	Interaction	BSCS3AB	course	5	times
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN	CD	NNS
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB	course	and	the	Hamid	Mukhtar	course
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN	CC	DT	NNP	NNP	NN
+
+Which	course	been	viewed	by	MH
+WDT	NN	VBN	VBN	IN	NNP
+
+Who	viewed	the	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+who	added	resource	125052
+WP	VBD	NN	CD
+
+which	ressources	was	added	by	HM
+WDT	NNS	VBD	VBN	IN	NNP
+
+who	viewed	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	NNP	NNP	NNP	NNP	NNP	NN
+
+who	viewed	CS260Lecture1Rules	Regulations	course
+WP	VBD	NNP	NNP	NN
+
+which	courses	was	viewed	by	MH	and	RA
+WDT	VBZ	VBD	VBN	IN	NNP	CC	NNP
+
+who	viewed	CS260Lecture1Rules	Regulations	resource	CS260Lecture2Introduction	HCI	ressources	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	NNP	NNP	NN	NNP	NNP	VBZ	NNP	NNP	NNP	NNP	NNP
+
+who	viewed	CS260Lecture1Rules	Regulations	course
+WP	VBD	NNP	NNP	NN
+
+who	viewed	CS260Lecture1Rules	Regulations	resource	CS260Lecture2Introduction	HCI	ressources	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	NNP	NNP	NN	NNP	NNP	VBZ	NNP	NNP	NNP	NNP	NNP
+
+who	viewed	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	NNP	NNP	NNP	NNP	NNP	NN
+
+which	courses	was	viewed	by	SA
+WDT	VBZ	VBD	VBN	IN	NNP
+
+who	viewed	CS260Lecture1Rules	Regulations	ressource
+WP	VBD	NNP	NNP	NN
+
+who	viewed	CS260	Human	Computer	Interaction	BSCS3AB	ressource
+WP	VBD	NNP	NNP	NNP	NNP	NNP	NN
+
+which	resourses	are	been	viewed	by	SA	and	ML
+WDT	NNS	VBP	VBN	VBN	IN	NNP	CC	NNP
+
+which	courses	was	viewed	by	SNK
+WDT	VBZ	VBD	VBN	IN	NNP
+
+which	ressources	was	viewed	by	SNK
+WDT	NNS	VBD	VBN	IN	NNP
+
+which	course	was	viewed	by	ANB
+WDT	NN	VBD	VBN	IN	NNP
+
+which	resourses	was	viewed	by	ANB
+WDT	VBZ	VBD	VBN	IN	NNP
+
+which	course	was	viewed	by	HM
+WDT	NN	VBD	VBN	IN	NNP
+
+which	courses	was	viewed	by	KAP
+WDT	VBZ	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	ressource
+WP	VBD	IN	JJS	CD	NN
+
+wich	courses	was	viewed	by	NZ
+JJ	NNS	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	ressource
+WP	VBD	IN	JJS	CD	NN
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+wich	courses	was	viewed	by	MMA
+JJ	NNS	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+which	course	was	viewed	by	DA
+WDT	NN	VBD	VBN	IN	NNP
+
+which	topic	was	vieweb	by	ANB
+WDT	NN	VBD	VBN	IN	NNP
+
+Who	had	viewed	at	least	one	course
+WP	VBD	VBN	IN	JJS	CD	NN
+
+which	courses	are	viewed	by	HS
+WDT	NNS	VBP	VBN	IN	NNP
+
+Who	had	viewed	at	least	one	ressource
+WP	VBD	VBN	IN	JJS	CD	NN
+
+which	ressources	are	viewed	by	HS
+WDT	NNS	VBP	VBN	IN	NNP
+
+which	course	was	viewed	by	ANB
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	a	course	or	a	resource	related	to	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	DT	NN	CC	DT	NN	VBN	TO	NNP	NNP	NNP	NNP	NNP
+
+which	ressources	was	viewed	by	MFF
+WDT	NNS	VBD	VBN	IN	NNP
+
+who	viewed	a	course	and	attended	it
+WP	VBD	DT	NN	CC	VBD	PRP
+
+who	viewed	at	least	one	course	and	attented	at	least	one	course
+WP	VBD	IN	JJS	CD	NN	CC	VBN	IN	JJS	CD	NN
+
+which	course	was	viewed	by	UZ
+WDT	NN	VBD	VBN	IN	NNP
+
+which	course	was	viewed	by	ANB
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	NNP	NNP	NNP	NNP	NNP
+
+which	course	was	viewed	by	MH
+WDT	NN	VBD	VBN	IN	NNP
+
+Who	viewed	at	least	one	course	and	the	ressource	related	to	the	course
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBN	TO	DT	NN
+
+which	course	was	viewed	by	HS
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course	and	the	ressource	related
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBD
+
+which	course	was	viewed	by	SAEH
+WDT	NN	VBD	VBN	IN	NNP
+
+at	which	period	HM	viewed	CS260Lecture2Introduction	HCI
+IN	WDT	NN	NNP	VBD	NNP	NNP
+
+which	course	was	viewed	by	HM
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	2	courses
+WP	VBD	IN	JJS	CD	NNS
+
+Who	added	ressources
+WP	VBD	NNS
+
+Which	ressources	was	added
+JJ	NNS	VBD	VBN
+
+who	viewed	at	least	one	course	and	resource
+WP	VBD	IN	JJS	CD	NN	CC	NN
+
+which	course	was	viewed	by	SA
+WDT	NN	VBD	VBN	IN	NNP
+
+who	has	viewed	at	least	one	course	and	the	ressource	attached	to	each
+WP	VBZ	VBN	IN	JJS	CD	NN	CC	DT	NN	VBD	TO	DT
+
+Which	courses	was	viewed	by	SAEH
+JJ	VBZ	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+who	viewed	at	least	one	course	and	the	ressource	attached	with	each	course
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBN	IN	DT	NN
+
+which	course	was	viewed	by	AM
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course	and	the	ressource	attached	with	each	course
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBN	IN	DT	NN
+
+who	viewed	the	viewed	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	DT	VBN	NNP	NNP	NNP	NNP	NNP	NN
+
+who	viewed	the	viewed	and	attended	the	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	DT	NN	CC	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+which	course	was	viewed	by	ANB
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course	and	the	ressource	attached	with	each	course
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBN	IN	DT	NN
+
+which	course	was	viewed	by	MHUZ
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course	and	the	ressource	attached	with	the	course
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBN	IN	DT	NN
+
+which	course	was	viewed	by	SA
+WDT	NN	VBD	VBN	IN	NNP
+
+which	courses	ML	has	viewed
+WDT	VBZ	NNP	VBZ	VBN
+
+which	ressources	ML	has	viewed
+WDT	VBZ	NNP	VBZ	VBN
+
+which	course	was	viewed	by	SNK
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course	and	the	resource	attached	to	the	course
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBD	TO	DT	NN
+
+which	courses	AM	has	viewed
+WDT	VBZ	NNP	VBZ	VBN
+
+which	ressources	AM	has	viewed
+WDT	VBZ	NNP	VBZ	VBN
+
+who	viewed	at	least	one	course	and	the	resource	attached	to	the	course
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBD	TO	DT	NN
+
+which	courses	MH	has	viewed
+WDT	VBZ	NNP	VBZ	VBN
+
+which	ressources	MH	has	viewed
+WDT	VBZ	NNP	VBZ	VBN
+
+which	course	was	viewed	by	ANB
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	ressource
+WP	VBD	IN	JJS	CD	NN
+
+which	course	was	viewed	by	DA
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	list	of	courses	and	the	ressourse	attached	to	it
+WP	VBD	NN	IN	NNS	CC	DT	NN	VBD	TO	PRP
+
+which	course	was	viewed	by	SAEH
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	list	of	courses	and	the	ressourse	attached	to	it
+WP	VBD	NN	IN	NNS	CC	DT	NN	VBD	TO	PRP
+
+which	course	was	viewed	by	MOJ
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	the	S260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	DT	NNP	NNP	NNP	NNP	NNP	NN
+
+who	viewed	the	CS260Lecture7The	Computer	course
+WP	VBD	DT	NNP	NNP	NN
+
+which	ressource	was	viewed	by	SMH
+WDT	NN	VBD	VBN	IN	NNP
+
+which	course	was	viewed	by	OBA
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	at	least	one	course	and	the	ressource	attached	to	it
+WP	VBD	IN	JJS	CD	NN	CC	DT	NN	VBD	TO	PRP
+
+which	courses	was	viewed	by	UZ
+WDT	VBZ	VBD	VBN	IN	NNP
+
+who	viewed	First	Student	Feedback	Hamid	Mukhtar	and	course	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	NNP	NNP	NNP	NNP	NNP	CC	NN	NNP	NNP	NNP	NNP	NNP
+
+who	viewed	most	courses
+WP	VBD	JJS	NNS
+
+which	courses	was	viewed	by	MFF	and	DA
+WDT	VBZ	VBD	VBN	IN	NNP	CC	NNP
+
+which	courses	SAEH	viewed
+WDT	VBZ	NNP	VBD
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+which	courses	was	viewed	by	DA
+WDT	VBZ	VBD	VBN	IN	NNP
+
+which	ressource	was	viewed	by	DA
+WDT	NN	VBD	VBN	IN	NNP
+
+at	which	period	HM	viewed	course	CS260	Human	Computer	Interaction	BSCS3AB
+IN	WDT	NN	NNP	VBD	NN	NNP	NNP	NNP	NNP	NNP
+
+who	viewed	CS260	Human	Computer	Interaction	BSCS3AB	course
+WP	VBD	NNP	NNP	NNP	NNP	NNP	NN
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+who	viewed	forum	topic	News	forum
+WP	VBD	NN	NN	NNP	NN
+
+who	viewed	course	CS260	Human	Computer	Interaction	BSCS3AB	course	and	CS260HCICourseOutline	course
+WP	VBD	NN	NNP	NNP	NNP	NNP	NNP	NN	CC	NNP	NN
+
+who	viewed	the	same	course	and	the	same	ressources	as	MH
+WP	VBD	DT	JJ	NN	CC	DT	JJ	NNS	IN	NNP
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+which	course	was	viewed	by	MS	and	SA
+WDT	NN	VBD	VBN	IN	NNP	CC	NNP
+
+who	viewed	the	same	courses	as	AS
+WP	VBD	DT	JJ	NNS	IN	IN
+
+who	viewed	all	the	course	mentionned	in	this	sentence
+WP	VBD	PDT	DT	NN	VBN	IN	DT	NN
+
+which	course	was	viewed	by	HM
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	all	the	course	mentionned	in	this	sentence
+WP	VBD	PDT	DT	NN	VBN	IN	DT	NN
+
+which	course	was	viewed	by	MU
+WDT	NN	VBD	VBN	IN	NNP
+
+who	did	the	same	thing	as	HM
+WP	VBD	DT	JJ	NN	IN	NNP
+
+which	course	was	viewed	by	MHUZ
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	forum	topics
+WP	VBD	NN	NNS
+
+who	did	the	same	courses	as	AM
+WP	VBD	DT	JJ	NNS	IN	NNP
+
+which	course	was	viewed	by	SMH
+WDT	NN	VBD	VBN	IN	NNP
+
+who	did	the	same	courses	as	OBA
+WP	VBD	DT	JJ	NNS	IN	NNP
+
+which	courses	was	viewed	by	MHUZ
+WDT	VBZ	VBD	VBN	IN	NNP
+
+which	course	was	viewed	by	DA
+WDT	NN	VBD	VBN	IN	NNP
+
+who	viewed	CS260	Human	Computer	Interaction	BSCS3AB
+WP	VBD	NNP	NNP	NNP	NNP	NNP
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+which	forum	discussion	was	viewed	by	SA
+WDT	JJS	NN	VBD	VBN	IN	NNP
+
+who	viewed	News	forum	course
+WP	VBD	NNP	NN	NN
+
+who	viewed	at	least	one	course
+WP	VBD	IN	JJS	CD	NN
+
+who	viewed	forum	topics
+WP	VBD	NN	NNS
+

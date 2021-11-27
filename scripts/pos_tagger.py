@@ -20,40 +20,54 @@ import string
 
 with_punc = False
 file_position = 1
+output = ''
 
 if __name__ == '__main__':
     if len(sys.argv) <= 1:
         print('Error: Please provide the file to be converted')
         sys.exit(1)
 
+    file_path = Path(sys.argv[1])
+
     if len(sys.argv) == 3:
-        if sys.argv[1] != '-with_punc':
+        if sys.argv[1] == '-with_punc':
+            file_path = Path(sys.argv[2])
+            output = file_path.parent / 'sentences_pos_tagged.txt'
+        else:
             print(f'Error: Unrecognized argument \'{sys.argv[1]}\'')
             sys.exit(1)
-        with_punc = True
-        file_position = 2
-    
-    
-    file_path = Path(sys.argv[file_position])
-    output = file_path.parent / 'sentences_pos_tagged.txt'
+    elif len(sys.argv) == 4:
+        if sys.argv[2] == '-o':
+            output = sys.argv[3]
+        else:
+            print(f'Error: Unrecogized option "{sys.argv[2]}"')
+            sys.exit(1)
+
     count = 1
-    
 
     with open(file_path) as datafile:
-        with open(output, 'w') as posfile:
+        with open(output, 'w') as pos_file:
             print('Processing...')
             for line in datafile.readlines():
+                line_text = []
+                pos_text = []
                 if len(line) > 1:
                     if not with_punc:
                         line = line.replace('(', ' (')
                         table = str.maketrans('', '', string.punctuation)
                         line = line.translate(table)
-                        
-                    tokens = word_tokenize(line)
-                    pos_line = ' '.join(
-                        [f'{word}/{pos}' for word, pos in pos_tag(tokens)])
 
-                    posfile.write(pos_line + '\n\n')
+                    tokens = word_tokenize(line)
+                    for word, pos in pos_tag(tokens):
+                        line_text.append(word)
+                        pos_text.append(pos)
+
+                    pos_file.write('\t'.join(line_text))
+                    pos_file.write('\n')
+                    pos_file.write('\t'.join(pos_text))
+                    pos_file.write('\n')
+                    pos_file.write('\n')
+
                     count += 1
 
     print('Successfully tagged input data with POS class')

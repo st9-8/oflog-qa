@@ -1,0 +1,360 @@
+which	course	has been viewed	by	MMF,	ANB,	MU,	SA,	KK	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	LogUser	LogUser	LogUser	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	MA,	MH	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	SA	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	NSC	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	AHK	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	UUH	or	AS	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	Other	LogUser
+
+who	are enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+who	is enrolled	course	has been viewed	by	KK	or	HM	to	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	LogAction	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	Other	LogUser	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	DA	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	SMH	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	w	MFF	and	ANB	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	LogUser	Other	LogUser
+
+which	course	has been viewed	by	HS,	KAP,	MAZ,	HK	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	LogUser	LogUser	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	w	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	HM	or	MA	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	MMA	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	MS	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	is enrolled	to	CS260 Human Computer Interaction(BSCS-3AB)	course	and	has viewed	this	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	LogAction	LogAction	Other	LogInformation
+
+which	course	has been viewed	by	MS	and	MA	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	Other	LogUser
+
+Which	course	SA	has he viewed	?
+Other	LogInformation	LogUser	LogAction	LogAction	LogAction
+
+Which	course	has	UZ	viewed	?
+Other	LogInformation	LogAction	LogUser	LogAction
+
+Which	course	has	SA	viewed	?
+Other	LogInformation	LogAction	LogUser	LogAction
+
+who	has viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+Which	course	has	MS	viewed	?
+Other	LogInformation	LogAction	LogUser	LogAction
+
+who	has viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+Who	has viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	course	and	at	which	time	?
+Other	LogAction	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	Other	Other	Other
+
+Who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource
+
+Which	course	been viewed	by	AM	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource
+
+Which	course	been viewed	by	UZ	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource
+
+Which	course	been viewed	by	HM	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource
+
+Which	course	been viewed	by	HMA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource
+
+at which	time	HM	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	Other	Other	LogUser	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	course	5 times	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	Other
+
+at which time	HM	attended	the	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	Other	Other	LogUser	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	attended	the	CS260 Human Computer Interaction(BSCS-3AB)	course	5 times	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	Other
+
+Who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	course	and	the	course	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation	Other	Other	LogInformation
+
+Which	course	been viewed	by	MH	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	viewed	the	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	Other	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	added	resource	125052	?
+Other	LogAction	LogInformation	LogResource
+
+which	resources	was added	by	HM	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	viewed	CS260-Lecture1-Rules Regulations	course	?
+Other	LogAction	LogResource	LogResource	LogInformation
+
+which	courses	was viewed	by	MH	and	RA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser	Other	LogUser
+
+who	viewed	CS260-Lecture1-Rules Regulations	resource,	CS260-Lecture2-Introduction HCI	resources,	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	LogResource	LogResource	LogInformation	LogResource	LogResource	LogInformation	LogResource	LogResource	LogResource	LogResource
+
+who	viewed	CS260-Lecture1-Rules Regulations	course	?
+Other	LogAction	LogResource	LogResource	LogInformation
+
+who	viewed	CS260-Lecture1-Rules Regulations	resource,	CS260-Lecture2-Introduction HCI	resources,	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	LogResource	LogResource	LogInformation	LogResource	LogResource	LogInformation	LogResource	LogResource	LogResource	LogResource
+
+who	viewed	forum topics	?
+Other	LogAction	LogInformation	LogInformation
+
+who	viewed	at least one	course	?
+Other	LogAction	Other	Other	Other	LogInformation
+
+who	viewed	News forum	course	?
+Other	LogAction	LogResource	LogResource	LogInformation
+
+which	forum discussion	was viewed	by	SA	?
+Other	LogInformation	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	at	least one	course	?
+Other	LogAction	Other	Other	Other	LogInformation
+
+who	viewed	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	LogResource	LogResource	LogResource	LogResource
+
+who	did	the same	courses	as	OBA	?
+Other	LogAction	Other	Other	LogInformation	Other	LogUser
+
+which	course	was viewed	by	SMH	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	course	was viewed	by	MHUZ	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	did	the same thing	as	HM	?
+Other	LogAction	Other	Other	Other	Other	LogUser
+
+which	course	was viewed	by	MU	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	CS260 Human Computer Interaction(BSCS-3AB)	course	?
+Other	LogAction	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	viewed	courses	was viewed	by	SA	?
+Other	LogAction	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	resourses	have been viewed	by	SA	ML	?
+Other	LogInformation	LogAction	LogAction	LogAction	Other	LogUser	LogUser
+
+	?
+
+
+who	viewed	at least one	ressource	?
+Other	LogAction	Other	Other	Other	LogInformation
+
+	?
+
+
+which	courses	were viewed	by	MMA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	at least one	course	?
+Other	LogAction	Other	Other	Other	LogInformation
+
+which	course	was viewed	by	DA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	topic	was vieweb	by	ANB	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	had viewed	at least one	course	?
+Other	LogAction	LogAction	Other	Other	Other	LogInformation
+
+which	courses	are viewed	by	HS	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	had viewed	at least one	ressource	?
+Other	LogAction	LogAction	Other	Other	Other	LogInformation
+
+which	resources	are viewed	by	HS	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	course	was viewed	by	ANB	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	a course	or	a resource	related to	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	LogInformation	LogInformation	Other	LogInformation	LogInformation	LogAction	LogAction	LogResource	LogResource	LogResource	LogResource
+
+which	resources	was viewed	by	MFF	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	and	a course	attended it	?
+Other	LogAction	Other	LogInformation	LogInformation	LogAction	LogAction
+
+who	viewed	at least one	course	and	attented	at least one	course	?
+Other	LogAction	Other	Other	Other	LogInformation	Other	LogAction	Other	Other	Other	LogInformation
+
+which	course	was viewed	by	UZ	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	course	was viewed	by	ANB	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	CS260 Human Computer Interaction(BSCS-3AB)	?
+Other	LogAction	LogResource	LogResource	LogResource	LogResource
+
+which	course	was viewed	by	MH	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+Who	viewed	at least one	course	and	the	ressource	related	to	this	course	?
+Other	LogAction	Other	Other	Other	LogInformation	Other	Other	LogInformation	LogAction	Other	Other	LogInformation
+
+which	course	was viewed	by	HS	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	at least one	course	and	the	ressource	related	?
+Other	LogAction	Other	Other	Other	LogInformation	Other	Other	LogInformation	Other
+
+which	course	was viewed	by	SAEH	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+at which	period	HM	viewed	CS260-Lecture2-Introduction HCI	?
+Other	Other	Other	LogUser	LogAction	LogResource	LogResource
+
+which	course	was viewed	by	HM	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	at least 2	courses	?
+Other	LogAction	Other	Other	Other	LogInformation
+
+Who	added	resources	?
+Other	LogAction	LogInformation
+
+Which	resources	was added	by	SA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+who	viewed	at least one	resource	?
+Other	LogAction	Other	Other	Other	LogInformation
+
+who	has viewed	at least one	course	the	and	ressource	attached	to each	?
+Other	LogAction	LogAction	Other	Other	Other	LogInformation	Other	Other	LogInformation	LogAction	Other	Other
+
+which	courses	was viewed	by	SAEH	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	course	was viewed	by	MHUZ	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	course	was viewed	by	SA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+	?
+
+
+who	viewed	course	CS260-HCI-CourseOutline	course	?
+Other	LogAction	LogInformation	LogResource	LogInformation
+
+who	viewed	the same	course	and	the same	resources	as	MH	?
+Other	LogAction	Other	Other	LogInformation	Other	Other	Other	LogInformation	Other	LogUser
+
+who	viewed	0	course	?
+Other	LogAction	Other	LogInformation
+
+which	courses	was viewed	by	MS	and	SA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser	Other	LogUser
+
+who	viewed	forum topic	News forum	?
+Other	LogAction	LogInformation	LogInformation	LogResource	LogResource
+
+which	ressource	was viewed	by	DA	?
+Other	LogInformation	LogAction	LogAction	Other	LogUser
+
+which	courses	was viewed	by	DA	?
+Other	LogInformation	LogAction	LogAction	Other	LogAction
+
+which	course	was	most	viewed	?
+Other	LogInformation	Other	Other	LogAction
+
+who	viewed	First Student Feedback(Hamid Mukhtar)	course	?
+Other	LogAction	LogResource	LogResource	LogResource	LogResource	LogInformation
+
+who	viewed	at least one	ressource	?
+Other	LogAction	Other	Other	Other	LogInformation
+

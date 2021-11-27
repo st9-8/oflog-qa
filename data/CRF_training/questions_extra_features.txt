@@ -1,0 +1,901 @@
+which course has been viewed by MMF, ANB, MU, SA, KK ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by MA, MH ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by SA ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by NSC ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by AHK ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by UUH or AS ?
+which
+LogResource
+uuh
+by
+
+who are enrolled to "CS260 Human Computer Interaction" course ?
+who
+LogUser
+human
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by KK or HM ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course ?
+who
+LogUser
+human
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by DA ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by SMH ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by MFF and ANB ?
+which
+LogResource
+by
+
+which course has been viewed by HS, KAP, MAZ, HK ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by HM or MA ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course ?
+who
+LogUser
+human
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by MMA ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by MS ?
+which
+LogResource
+by
+
+who is enrolled to "CS260 Human Computer Interaction" course ?
+who
+LogUser
+human
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+which course has been viewed by MS and MA ?
+which
+LogResource
+by
+
+Which course SA has he viewed ?
+which
+LogResource
+
+Who viewed course CS260 Human Computing Interaction ?
+who
+LogUser
+human
+
+Who enrolled to "CS260 Human Computer Interaction" and who viewed it ?
+who
+LogUser
+human
+
+Which course SAEH has he enrolled to and viewed ?
+which
+LogResource
+
+Which course has KK viewed ?
+which
+LogResource
+
+Who enrolled to "CS260 Human Computer Interaction" and who viewed it ?
+who
+LogUser
+human
+
+which course has been viewed by SNK ?
+which
+LogResource
+by
+
+who are enrolled to "CS260 Human Computer Interaction" course ?
+who
+LogUser
+human
+
+who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who
+LogUser
+human
+
+Which course has SNK viewed ?
+which
+LogResource
+
+Who viewed the "CS260 Human Computer Interaction" course?
+who
+LogUser
+cs260, human
+
+Which course has UZ viewed ?
+which
+LogResource
+uz
+
+Which course has SA viewed ?
+which
+LogResource
+
+who has view the "CS260 Human Computer Interaction" course ?
+who
+LogUser
+cs260, human
+
+Which course has MS viewed ?
+which
+LogResource
+
+who has view the "CS260 Human Computer Interaction" course ?
+who
+LogUser
+cs260, human
+
+Who has viewed the "CS260 Human Computer Interaction" course and in which time?
+who
+LogUser
+cs260, human
+in
+
+Who viewed the "CS260 Human Computer Interaction" ?
+who
+LogUser
+cs260, human
+
+Which course been viewed by AM ?
+which
+LogResource
+by
+
+Who viewed the "CS260 Human Computer Interaction" ?
+who
+LogUser
+cs260, human
+
+Which course been viewed by UZ ?
+which
+LogResource
+by
+
+Who viewed the "CS260 Human Computer Interaction" ?
+who
+LogUser
+cs260, human
+
+Which course been viewed by HM ?
+which
+LogResource
+by
+
+Who viewed the "CS260 Human Computer Interaction" ?
+who
+LogUser
+cs260, human
+
+Which course been viewed by HMA ?
+which
+LogResource
+by
+
+Who viewed the "CS260 Human Computer Interaction" ?
+who
+LogUser
+cs260, human
+
+at which time HM viewed the "CS260 Human Computer Interaction" course ?
+which
+LogResource
+cs260, human
+
+who viewed the "CS260 Human Computer Interaction" course 5 times ?
+who
+LogUser
+cs260, human
+
+at which time HM attended the "CS260 Human Computer Interaction" course ?
+which
+LogResource
+cs260, human
+
+who attended the "CS260 Human Computer Interaction" course 5 times ?
+who
+LogUser
+cs260, human
+
+Who viewed the "CS260 Human Computer Interaction" course and the Hamid Mukhtar course ?
+who
+LogUser
+cs260, human, hamid
+
+Which course been viewed by MH ?
+which
+LogResource
+by
+
+Who viewed the "CS260 Human Computer Interaction" course ?
+who
+LogUser
+cs260, human
+
+who added resource 125052?
+who
+LogUser
+
+which ressources was added by HM?
+which
+LogResource
+by
+
+who viewed "CS260 Human Computer Interaction" course?
+who
+LogUser
+cs260, human
+
+who viewed CS260-Lecture1-Rules Regulations course?
+who
+LogUser
+cs260-lecture1-rules
+
+which courses was viewed by MH and RA?
+which
+LogResource
+by
+
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, "CS260 Human Computer Interaction"?
+who
+LogUser
+cs260-lecture1-rules, human
+
+who viewed CS260-Lecture1-Rules Regulations course?
+who
+LogUser
+cs260-lecture1-rules
+
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, "CS260 Human Computer Interaction"?
+who
+LogUser
+cs260-lecture1-rules, human
+
+who viewed "CS260 Human Computer Interaction" course?
+who
+LogUser
+cs260, human
+
+which courses was viewed by SA?
+which
+LogResource
+by
+
+who viewed CS260-Lecture1-Rules Regulations ressource?
+who
+LogUser
+cs260-lecture1-rules
+
+who viewed  "CS260 Human Computer Interaction" ressource?
+who
+LogUser
+cs260, human
+
+which resourses are been viewed by SA and ML?
+which
+LogResource
+by
+
+which courses was viewed by SNK?
+which
+LogResource
+by
+
+which ressources was viewed by SNK?
+which
+LogResource
+by
+
+which course was viewed by ANB?
+which
+LogResource
+by
+
+which resourses was viewed by ANB?
+which
+LogResource
+by
+
+which course was viewed by HM?
+which
+LogResource
+by
+
+which courses was viewed by KAP?
+which
+LogResource
+by
+
+who viewed at least one ressource ?
+who
+LogUser
+least
+
+wich courses was viewed by NZ?
+wich
+by
+
+who viewed at least one ressource ?
+who
+LogUser
+least
+
+who viewed at least one course ?
+who
+LogUser
+least
+
+wich courses was viewed by MMA?
+wich
+by
+
+who viewed at least one course ?
+who
+LogUser
+least
+
+which course was viewed by DA?
+which
+LogResource
+by
+
+which topic was vieweb by ANB?
+which
+LogResource
+by
+
+Who had viewed at least one course?
+who
+LogUser
+least
+
+which courses are viewed by HS?
+which
+LogResource
+by
+
+Who had viewed at least one ressource?
+who
+LogUser
+least
+
+which ressources are viewed by HS?
+which
+LogResource
+by
+
+which course was viewed by ANB?
+which
+LogResource
+by
+
+who viewed a course or a resource related to "CS260 Human Computer Interaction"?
+who
+LogUser
+human
+
+which ressources was viewed by MFF?
+which
+LogResource
+by
+
+who viewed a course and attended it ?
+who
+LogUser
+
+who viewed at least one course and attented at least one course?
+who
+LogUser
+least, least
+
+which course was viewed by UZ?
+which
+LogResource
+by
+
+which course was viewed by ANB?
+which
+LogResource
+by
+
+who viewed "CS260 Human Computer Interaction"?
+who
+LogUser
+cs260, human
+
+which course was viewed by MH?
+which
+LogResource
+by
+
+Who viewed at least one course and the ressource related to the course ?
+who
+LogUser
+least
+
+which course was viewed by HS?
+which
+LogResource
+by
+
+who viewed at least one course and the ressource related?
+who
+LogUser
+least
+
+which course was viewed by SAEH?
+which
+LogResource
+by
+
+at which period HM viewed CS260-Lecture2-Introduction HCI?
+which
+LogResource
+
+which course was viewed by HM?
+which
+LogResource
+by
+
+who viewed at least 2 courses ?
+who
+LogUser
+least
+
+Who added ressources ?
+who
+LogUser
+
+Which ressources was added ?
+which
+LogResource
+
+who viewed at least one course and resource?
+who
+LogUser
+least
+
+which course was viewed by SA?
+which
+LogResource
+by
+
+who has viewed at least one course and the ressource attached to each?
+who
+LogUser
+least
+
+Which courses was viewed by SAEH?
+which
+LogResource
+by
+
+who viewed at least one course ?
+who
+LogUser
+least
+
+who viewed at least one course and the ressource attached with each course ?
+who
+LogUser
+least
+
+which course was viewed by AM?
+which
+LogResource
+by
+
+who viewed at least one course and the ressource attached with each course ?
+who
+LogUser
+least
+
+who viewed the viewed "CS260 Human Computer Interaction" course?
+who
+LogUser
+cs260, human
+
+who viewed the viewed and attended the "CS260 Human Computer Interaction" course?
+who
+LogUser
+cs260, human
+
+which course was viewed by ANB?
+which
+LogResource
+by
+
+who viewed at least one course and the ressource attached with each course ?
+who
+LogUser
+least
+
+which course was viewed by MHUZ?
+which
+LogResource
+by
+
+who viewed at least one course and the ressource attached with the course?
+who
+LogUser
+least
+
+which course was viewed by SA?
+which
+LogResource
+by
+
+which courses ML has viewed ?
+which
+LogResource
+
+which ressources ML has viewed ?
+which
+LogResource
+
+which course was viewed by SNK?
+which
+LogResource
+by
+
+who viewed at least one course and the resource attached to the course?
+who
+LogUser
+least
+
+which courses AM has viewed ?
+which
+LogResource
+
+which ressources AM has viewed ?
+which
+LogResource
+
+who viewed at least one course and the resource attached to the course?
+who
+LogUser
+least
+
+which courses MH has viewed ?
+which
+LogResource
+
+which ressources MH has viewed ?
+which
+LogResource
+
+which course was viewed by ANB?
+which
+LogResource
+by
+
+who viewed at least one ressource ?
+who
+LogUser
+least
+
+which course was viewed by DA?
+which
+LogResource
+by
+
+who viewed list of courses and the ressourse attached to it?
+who
+LogUser
+
+which course was viewed by SAEH?
+which
+LogResource
+by
+
+who viewed list of courses and the ressourse attached to it?
+who
+LogUser
+
+which course was viewed by MOJ?
+which
+LogResource
+by
+
+who viewed the S260 Human Computer Interaction course?
+who
+LogUser
+human
+
+who viewed the CS260-Lecture-7-The Computer course?
+who
+LogUser
+cs260-lecture-7-the
+
+which ressource was viewed by SMH?
+which
+LogResource
+by
+
+which course was viewed by OBA?
+which
+LogResource
+by
+
+who viewed at least one course and the ressource attached to it?
+who
+LogUser
+least
+
+which courses was viewed by UZ?
+which
+LogResource
+by
+
+who viewed First Student Feedback(Hamid Mukhtar) and course "CS260 Human Computer Interaction"?
+who
+LogUser
+first, hamid, cs260, human
+
+who viewed most courses ?
+who
+LogUser
+most
+
+which courses was viewed by MFF and DA?
+which
+LogResource
+by
+
+which courses SAEH viewed?
+which
+LogResource
+
+who viewed at least one course ?
+who
+LogUser
+least
+
+which courses was viewed by DA?
+which
+LogResource
+by
+
+which ressource was viewed by DA?
+which
+LogResource
+by
+
+at which period HM viewed course "CS260 Human Computer Interaction"?
+which
+LogResource
+cs260, human
+
+who viewed "CS260 Human Computer Interaction" course?
+who
+LogUser
+cs260, human
+
+who viewed at least one course ?
+who
+LogUser
+least
+
+who viewed forum topic News forum?
+who
+LogUser
+
+who viewed course "CS260 Human Computer Interaction" course and CS260-HCI-CourseOutline course ?
+who
+LogUser
+cs260, human, cs260-hci-courseoutline
+
+who viewed the same course and the same ressources as MH?
+who
+LogUser
+same, same
+
+who viewed at least one course ?
+who
+LogUser
+least
+
+which course was viewed by MS and SA?
+which
+LogResource
+by
+
+who viewed the same courses as AS?
+who
+LogUser
+same
+
+who viewed all the course mentionned in this sentence?
+who
+LogUser
+in
+
+which course was viewed by HM?
+which
+LogResource
+by
+
+who viewed all the course mentionned in this sentence?
+who
+LogUser
+in
+
+which course was viewed by MU?
+which
+LogResource
+by
+
+who did the same thing as HM ?
+who
+LogUser
+same
+
+which course was viewed by MHUZ?
+which
+LogResource
+by
+
+who viewed forum topics ?
+who
+LogUser
+
+who did the same courses as AM ?
+who
+LogUser
+same
+
+which course was viewed by SMH?
+which
+LogResource
+by
+
+who did the same courses as OBA ?
+who
+LogUser
+same
+
+which courses was viewed by MHUZ?
+which
+LogResource
+by
+
+which course was viewed by DA?
+which
+LogResource
+by
+
+who viewed "CS260 Human Computer Interaction"?
+who
+LogUser
+cs260, human
+
+who viewed at least one course?
+who
+LogUser
+least
+
+which forum discussion was viewed by SA ?
+which
+LogResource
+forum
+by
+
+who viewed News forum course?
+who
+LogUser
+
+who viewed at least one course ?
+who
+LogUser
+least
+
+who viewed forum topics ?who
+LogUser
+

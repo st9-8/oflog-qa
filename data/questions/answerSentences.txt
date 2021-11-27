@@ -1,0 +1,311 @@
+which course has been viewed by MMF, ANB, MU, SA, KK ?CS260 Human Computer Interaction(BSCS-3AB)
+who are enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? MMF, ANB, MU, SA, KK 
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? MMF, ANB, MU, SA, KK
+
+which course has been viewed by MA, MH ?CS260 Human Computer Interaction(BSCS-3AB)
+who are enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? MA, MH
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? MA, MH
+
+which course has been viewed by SA ?CS260 Human Computer Interaction(BSCS-3AB)
+who are enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? SA
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? SA
+
+which course has been viewed by NSC ?CS260 Human Computer Interaction(BSCS-3AB)
+who are enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? NSC
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? NSC
+
+which course has been viewed by AHK ?CS260 Human Computer Interaction(BSCS-3AB)
+who are enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? AHK
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? AHK
+
+which course has been viewed by UUH or AS ?CS260 Human Computer Interaction(BSCS-3AB)
+who are enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? UUH or AS
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? UUH or AS
+
+which course has been viewed by KK or HM ?CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? HM or DA
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? HM
+
+which course has been viewed by DA ?CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? DA
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? DA
+
+which course has been viewed by SMH ?CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? SMH
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? SMH
+
+which course has been viewed by MFF and ANB ?CS260 Human Computer Interaction(BSCS-3AB)
+
+which course has been viewed by HS/KAP/MAZ/HK ?CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? HS or KAP or MAZ or HK
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? HS or KAP or MAZ or HK
+
+which course has been viewed by HM or MA ? CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? AUM
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? AUM
+
+which course has been viewed by MMA ?CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? MMA
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? MMA
+
+which course has been viewed by MS ?CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? MS
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? MS
+
+
+which course has been viewed by MS and MA ?CS260 Human Computer Interaction(BSCS-3AB)
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? MA
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? MAZ
+Which course MS and MA have they viewed and to which MA enrolled ? CS260 Human Computer Interaction(BSCS-3AB)
+
+//Suite ligne 29
+
+Which course AS has he viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has AM enrolled to and that AM viewed ?CS260 Human Computer Interaction(BSCS-3AB)
+
+Wich course SA and KK have they viewed ?CS260 Human Computer Interaction(BSCS-3AB)
+
+Who enrolled to CS260 Human Computer Interaction and who viewed it ? OBA
+
+Who enrolled to CS260 Human Computer Interaction and who viewed it ? RA
+
+Which course has AS viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course HM has he viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Who has viewed the CS260 Human computer Interaction and who enrolled to it ? UZ
+
+Which course has SA viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has SA viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has NSC viewed ?CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course KK has he viewed ?CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course SA has he viewed ?CS260 Human Computer Interaction(BSCS-3AB)
+
+Who viewed course CS260 Human Computing Interaction (BSCS-3AB)? SA and KK
+
+Who enrolled to CS260 Human Computer Interaction and who viewed it ? ML
+
+Which course SAEH has he enrolled to and viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+
+Who enrolled to CS260 Human Computer Interaction and who viewed it ? NZ
+
+which course has been viewed by SNK ?CS260 Human Computer Interaction(BSCS-3AB)
+who are enrolled to CS260 Human Computer Interaction(BSCS-3AB) course ? SNK
+who is enrolled to CS260 Human Computer Interaction(BSCS-3AB) course and has viewed this course ? SNK
+
+Which course has SNK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) course? SNK
+
+Which course has UZ viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? UZ
+
+Which course has ANB viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? ANB
+
+Which course has HM viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? HM
+
+Which course has DA viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? DA
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? KK
+
+Which course has SA viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? SA
+
+Which course has SAEH viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? SAEH
+
+Which course has KK viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? KK
+
+Which course has SA viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? SA
+
+Which course has HM viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) course ? HM
+
+Which course has MS viewed ? CS260 Human Computer Interaction(BSCS-3AB)
+who has view the CS260 Human Computer Interaction(BSCS-3AB) cource ? MS
+
+Who has viewed the CS260 Human Computer Interaction(BSCS-3AB) course and in which time? HM at 17.02.15&nbsp;(Tue) 14:00 - 15:00
+Who has viewed the Hamid Mukhtar course? HM
+
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) course? KK and KAP
+
+Which course been viewed by SA ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? SA
+
+Which course been viewed by AM ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? AM
+
+Which course been viewed by MH ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? MH
+
+Which course been viewed by UZ ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? UZ
+
+Which course been viewed by HM ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? HM
+
+Which course been viewed by HMA ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? HMA
+
+Which course been viewed by ANB ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? HS
+
+Which course been viewed by SA ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? DA
+
+in which time HM viewed the CS260 Human Computer Interaction(BSCS-3AB) course ? 18.02.15&nbsp;(Wed) 10:00 - 11:00 or 25.02.15&nbsp;(Wed) 10:00 - 11:00 or 4.03.15&nbsp;(Wed) 10:00 - 11:00 or 11.03.15&nbsp;(Wed) 10:00 - 11:00 or 18.03.15&nbsp;(Wed) 10:00 - 11:00
+who viewed the CS260 Human Computer Interaction(BSCS-3AB) course 5 times ? HM
+in which time HM attended the CS260 Human Computer Interaction(BSCS-3AB) course ? 18.02.15&nbsp;(Wed) 10:00 - 11:00 or 25.02.15&nbsp;(Wed) 10:00 - 11:00 or 4.03.15&nbsp;(Wed) 10:00 - 11:00 or 11.03.15&nbsp;(Wed) 10:00 - 11:00 or 18.03.15&nbsp;(Wed) 10:00 - 11:00
+who attended the CS260 Human Computer Interaction(BSCS-3AB) course 5 times ? HM
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) course and the Hamid Mukhtar course ? HM
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? MS
+
+Which course been viewed by MH ? CS260 Human Computer Interaction(BSCS-3AB)
+Who viewed the CS260 Human Computer Interaction(BSCS-3AB) ? ANB
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? MFF
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? MU
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? MA
+
+who added resource 125052? HM
+which ressources was added by HM? resource 125052, CS260-Lecture1-Rules Regulations, resource 125053, CS260 Human Computer Interaction(BSCS-3AB), esource CS260-Lecture2-Introduction HCI 
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? MH, RA
+who viewed CS260-Lecture1-Rules Regulations course? MH, RA
+which courses was viewed by MH and RA? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations, CS260-Lecture2-Introduction HCI
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction(BSCS-3AB)? MH, HCI
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? MH, SA
+who viewed CS260-Lecture1-Rules Regulations course? SA, RA
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction(BSCS-3AB)? RA, DA
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? ANB, AS
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course? KK, HM
+
+which ressources was viewed by SA? CS260-Lecture1-Rules Regulations, CS260 Human Computer Interaction(BSCS-3AB)
+which courses was viewed by SA? CS260-Lecture1-Rules Regulations, CS260 Human Computer Interaction(BSCS-3AB)
+
+who viewed CS260-Lecture1-Rules Regulations ressource? SA, ML
+who viewed  CS260 Human Computer Interaction(BSCS-3AB) ressource? SA, ML
+which resourses are been viewed by SA and ML? CS260-Lecture1-Rules Regulations, CS260 Human Computer Interaction(BSCS-3AB)
+
+which courses was viewed by SNK? CS260 Human Computer Interaction(BSCS-3AB) and CS260-Lecture2-Introduction HCI
+which ressources was viewed by SNK? CS260 Human Computer Interaction(BSCS-3AB) and CS260-Lecture2-Introduction HCI
+
+which course was viewed by ANB? CS260 Human Computer Interaction(BSCS-3AB)
+
+which course was viewed by SA? CS260 Human Computer Interaction(BSCS-3AB)
+
+which course was viewed by MH? CS260 Human Computer Interaction(BSCS-3AB)
+
+which course was viewed by ANB? CS260 Human Computer Interaction(BSCS-3AB)
+
+which courses was viewed by ANB? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+which resourses was viewed by ANB? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+
+which course was viewed by HM? CS260 Human Computer Interaction(BSCS-3AB)
+
+which courses was viewed by KAP? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+which ressources was viewed by KAP? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+
+who viewed the CS260 Human Computer Interaction(BSCS-3AB) course? ANB
+
+who viewed the CS260 Human Computer Interaction(BSCS-3AB) course? AM, MH 
+
+which ressources was viewed by AM? CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+
+who viewed the CS260 Human Computer Interaction(BSCS-3AB) course? SA
+
+who viewed the CS260 Human Computer Interaction(BSCS-3AB) course? MOJ
+
+which ressources was viewed by MOJ? CS260 Human Computer Interaction(BSCS-3AB) and CS260-Lecture2-Introduction HCI
+which courses was viewed by HS? CS260 Human Computer Interaction(BSCS-3AB) and CS260-Lecture2-Introduction HCI
+
+which courses was viewed by HS? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+which courses was viewed by UUH? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+which resources was viewed by HS? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+
+who viewed ourse CS260 Human Computer Interaction(BSCS-3AB) course? RAK
+
+who viewed ourse CS260 Human Computer Interaction(BSCS-3AB) course? RAK
+
+which courses was viewed by ML? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+which resources was viewed by ML? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+
+who viewed ourse CS260 Human Computer Interaction(BSCS-3AB) course? SA
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB) course and ressource? HK
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? MH
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? KAP, ANB and AM
+
+who viewed at least one course ? AM
+who viewed at least one ressource ? AM
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? MU
+
+who viewed at least one course ? NZ
+wich courses was viewed by NZ? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+who viewed at least one ressource ? NZ
+
+who viewed at least one course ? MMA
+wich courses was viewed by MMA? CS260 Human Computer Interaction(BSCS-3AB), CS260-Lecture1-Rules Regulations and CS260-Lecture2-Introduction HCI
+who viewed at least one ressource ? MMA
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? KK
+
+who viewed at least one course ? HM
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? ANB
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? MMA
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? KAP
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? DA
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? DA
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? ANB
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? MH
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? KK
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? SA
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? KK
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? SNK
+
+who viewed CS260 Human Computer Interaction(BSCS-3AB)? MMA
+which course was viewed by DA? CS260 Human Computer Interaction(BSCS-3AB)
+
+// ligne 233 terminé.
