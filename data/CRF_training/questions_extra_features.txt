@@ -3,7 +3,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -13,7 +13,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -23,7 +23,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -33,7 +33,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -43,7 +43,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -54,12 +54,12 @@ LogResource
 uuh
 by
 
-who are enrolled to "CS260 Human Computer Interaction" course ?
+who are enrolled to CS260 Human Computer Interaction course ?
 who
 LogUser
 human
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -69,12 +69,12 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course ?
+who is enrolled to CS260 Human Computer Interaction course ?
 who
 LogUser
 human
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -84,7 +84,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -94,7 +94,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -109,7 +109,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -119,12 +119,12 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course ?
+who is enrolled to CS260 Human Computer Interaction course ?
 who
 LogUser
 human
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -134,7 +134,7 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -144,12 +144,12 @@ which
 LogResource
 by
 
-who is enrolled to "CS260 Human Computer Interaction" course ?
+who is enrolled to CS260 Human Computer Interaction course ?
 who
 LogUser
 human
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -168,7 +168,7 @@ who
 LogUser
 human
 
-Who enrolled to "CS260 Human Computer Interaction" and who viewed it ?
+Who enrolled to CS260 Human Computer Interaction and who viewed it ?
 who
 LogUser
 human
@@ -181,7 +181,7 @@ Which course has KK viewed ?
 which
 LogResource
 
-Who enrolled to "CS260 Human Computer Interaction" and who viewed it ?
+Who enrolled to CS260 Human Computer Interaction and who viewed it ?
 who
 LogUser
 human
@@ -191,12 +191,12 @@ which
 LogResource
 by
 
-who are enrolled to "CS260 Human Computer Interaction" course ?
+who are enrolled to CS260 Human Computer Interaction course ?
 who
 LogUser
 human
 
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 who
 LogUser
 human
@@ -205,10 +205,10 @@ Which course has SNK viewed ?
 which
 LogResource
 
-Who viewed the "CS260 Human Computer Interaction" course?
+Who viewed the CS260 Human Computer Interaction course?
 who
 LogUser
-cs260, human
+human
 
 Which course has UZ viewed ?
 which
@@ -219,105 +219,105 @@ Which course has SA viewed ?
 which
 LogResource
 
-who has view the "CS260 Human Computer Interaction" course ?
+who has view the CS260 Human Computer Interaction course ?
 who
 LogUser
-cs260, human
+human
 
 Which course has MS viewed ?
 which
 LogResource
 
-who has view the "CS260 Human Computer Interaction" course ?
+who has view the CS260 Human Computer Interaction course ?
 who
 LogUser
-cs260, human
+human
 
-Who has viewed the "CS260 Human Computer Interaction" course and in which time?
+Who has viewed the CS260 Human Computer Interaction course and in which time?
 who
 LogUser
-cs260, human
+human
 in
 
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 who
 LogUser
-cs260, human
+human
 
 Which course been viewed by AM ?
 which
 LogResource
 by
 
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 who
 LogUser
-cs260, human
+human
 
 Which course been viewed by UZ ?
 which
 LogResource
 by
 
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 who
 LogUser
-cs260, human
+human
 
 Which course been viewed by HM ?
 which
 LogResource
 by
 
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 who
 LogUser
-cs260, human
+human
 
 Which course been viewed by HMA ?
 which
 LogResource
 by
 
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 who
 LogUser
-cs260, human
+human
 
-at which time HM viewed the "CS260 Human Computer Interaction" course ?
+at which time HM viewed the CS260 Human Computer Interaction course ?
 which
 LogResource
-cs260, human
+human
 
-who viewed the "CS260 Human Computer Interaction" course 5 times ?
+who viewed the CS260 Human Computer Interaction course 5 times ?
 who
 LogUser
-cs260, human
+human
 
-at which time HM attended the "CS260 Human Computer Interaction" course ?
+at which time HM attended the CS260 Human Computer Interaction course ?
 which
 LogResource
-cs260, human
+human
 
-who attended the "CS260 Human Computer Interaction" course 5 times ?
+who attended the CS260 Human Computer Interaction course 5 times ?
 who
 LogUser
-cs260, human
+human
 
-Who viewed the "CS260 Human Computer Interaction" course and the Hamid Mukhtar course ?
+Who viewed the CS260 Human Computer Interaction course and the Hamid Mukhtar course ?
 who
 LogUser
-cs260, human, hamid
+human, hamid
 
 Which course been viewed by MH ?
 which
 LogResource
 by
 
-Who viewed the "CS260 Human Computer Interaction" course ?
+Who viewed the CS260 Human Computer Interaction course ?
 who
 LogUser
-cs260, human
+human
 
 who added resource 125052?
 who
@@ -328,10 +328,10 @@ which
 LogResource
 by
 
-who viewed "CS260 Human Computer Interaction" course?
+who viewed CS260 Human Computer Interaction course?
 who
 LogUser
-cs260, human
+human
 
 who viewed CS260-Lecture1-Rules Regulations course?
 who
@@ -343,7 +343,7 @@ which
 LogResource
 by
 
-who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, "CS260 Human Computer Interaction"?
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction?
 who
 LogUser
 cs260-lecture1-rules, human
@@ -353,15 +353,15 @@ who
 LogUser
 cs260-lecture1-rules
 
-who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, "CS260 Human Computer Interaction"?
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction?
 who
 LogUser
 cs260-lecture1-rules, human
 
-who viewed "CS260 Human Computer Interaction" course?
+who viewed CS260 Human Computer Interaction course?
 who
 LogUser
-cs260, human
+human
 
 which courses was viewed by SA?
 which
@@ -373,10 +373,10 @@ who
 LogUser
 cs260-lecture1-rules
 
-who viewed  "CS260 Human Computer Interaction" ressource?
+who viewed  CS260 Human Computer Interaction ressource?
 who
 LogUser
-cs260, human
+human
 
 which resourses are been viewed by SA and ML?
 which
@@ -476,7 +476,7 @@ which
 LogResource
 by
 
-who viewed a course or a resource related to "CS260 Human Computer Interaction"?
+who viewed a course or a resource related to CS260 Human Computer Interaction?
 who
 LogUser
 human
@@ -505,10 +505,10 @@ which
 LogResource
 by
 
-who viewed "CS260 Human Computer Interaction"?
+who viewed CS260 Human Computer Interaction?
 who
 LogUser
-cs260, human
+human
 
 which course was viewed by MH?
 which
@@ -597,15 +597,15 @@ who
 LogUser
 least
 
-who viewed the viewed "CS260 Human Computer Interaction" course?
+who viewed the viewed CS260 Human Computer Interaction course?
 who
 LogUser
-cs260, human
+human
 
-who viewed the viewed and attended the "CS260 Human Computer Interaction" course?
+who viewed the viewed and attended the CS260 Human Computer Interaction course?
 who
 LogUser
-cs260, human
+human
 
 which course was viewed by ANB?
 which
@@ -734,10 +734,10 @@ which
 LogResource
 by
 
-who viewed First Student Feedback(Hamid Mukhtar) and course "CS260 Human Computer Interaction"?
+who viewed First Student Feedback(Hamid Mukhtar) and course CS260 Human Computer Interaction?
 who
 LogUser
-first, hamid, cs260, human
+first, hamid, human
 
 who viewed most courses ?
 who
@@ -768,15 +768,15 @@ which
 LogResource
 by
 
-at which period HM viewed course "CS260 Human Computer Interaction"?
+at which period HM viewed course CS260 Human Computer Interaction?
 which
 LogResource
-cs260, human
+human
 
-who viewed "CS260 Human Computer Interaction" course?
+who viewed CS260 Human Computer Interaction course?
 who
 LogUser
-cs260, human
+human
 
 who viewed at least one course ?
 who
@@ -787,10 +787,10 @@ who viewed forum topic News forum?
 who
 LogUser
 
-who viewed course "CS260 Human Computer Interaction" course and CS260-HCI-CourseOutline course ?
+who viewed course CS260 Human Computer Interaction course and CS260-HCI-CourseOutline course ?
 who
 LogUser
-cs260, human, cs260-hci-courseoutline
+human, cs260-hci-courseoutline
 
 who viewed the same course and the same ressources as MH?
 who
@@ -871,10 +871,10 @@ which
 LogResource
 by
 
-who viewed "CS260 Human Computer Interaction"?
+who viewed CS260 Human Computer Interaction?
 who
 LogUser
-cs260, human
+human
 
 who viewed at least one course?
 who

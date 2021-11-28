@@ -46,14 +46,23 @@ if __name__ == '__main__':
                     else:
                         ner_text.append(row[1].strip())
                 else:
-                    lines.write('\t'.join(line_text) + '\t?')
-                    lines.write('\n')
-                    lines.write('\t'.join(ner_text))
-                    lines.write('\n')
-                    lines.write('\n')
+                    if 'question' in file_path.name:
+                        lines.write(' '.join(line_text) + ' ?')
+                        lines.write('\n')
+                        lines.write(' '.join(ner_text))
+                        lines.write('\n')
+                        lines.write('\n')
+                    else:
+                        lines.write(' '.join(line_text))
+                        lines.write('\n')
+                        lines.write(' '.join(ner_text))
+                        lines.write('\n')
                     
                     line_text = []
                     ner_text = []
 
     print('Successfully converted tsv data to line files file')
     print(f'New file saved at: {output_file}')
+    
+    # python convert_tsv_to_lines.py ../ner/sentences_ner_data.tsv -o ../data/CRF_training/sentences_annotated_ner_data.txt
+    # python convert_tsv_to_lines.py ../ner/questions_ner_data.tsv -o ../data/CRF_training/questions_annotated_ner_data.txt

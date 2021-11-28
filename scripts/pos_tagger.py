@@ -62,9 +62,12 @@ if __name__ == '__main__':
                         line_text.append(word)
                         pos_text.append(pos)
 
-                    pos_file.write('\t'.join(line_text))
+                    if 'question' in file_path.name:
+                        pos_file.write(' '.join(line_text) + ' ?')
+                    else:
+                        pos_file.write(' '.join(line_text))
                     pos_file.write('\n')
-                    pos_file.write('\t'.join(pos_text))
+                    pos_file.write(' '.join(pos_text))
                     pos_file.write('\n')
                     pos_file.write('\n')
 
@@ -73,3 +76,6 @@ if __name__ == '__main__':
     print('Successfully tagged input data with POS class')
     print(f'{count} lines tagged')
     print(f'New file saved at: {output}')
+
+# python pos_tagger.py ../data/full_training/sentences.txt -o ../data/CRF_training/sentences_annotated_pos_data.txt
+# python pos_tagger.py ../data/full_training/questions.txt -o ../data/CRF_training/questions_annotated_pos_data.txt

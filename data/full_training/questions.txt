@@ -1,80 +1,80 @@
 which course has been viewed by MMF, ANB, MU, SA, KK ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by MA, MH ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by SA ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by NSC ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by AHK ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by UUH or AS ?
-who are enrolled to "CS260 Human Computer Interaction" course ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who are enrolled to CS260 Human Computer Interaction course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by KK or HM ?
-who is enrolled to "CS260 Human Computer Interaction" course ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by DA ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by SMH ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by MFF and ANB ?
 which course has been viewed by HS, KAP, MAZ, HK ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by HM or MA ?
-who is enrolled to "CS260 Human Computer Interaction" course ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by MMA ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by MS ?
-who is enrolled to "CS260 Human Computer Interaction" course ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who is enrolled to CS260 Human Computer Interaction course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 which course has been viewed by MS and MA ?
 Which course SA has he viewed ?
 Who viewed course CS260 Human Computing Interaction ?
-Who enrolled to "CS260 Human Computer Interaction" and who viewed it ?
+Who enrolled to CS260 Human Computer Interaction and who viewed it ?
 Which course SAEH has he enrolled to and viewed ?
 Which course has KK viewed ?
-Who enrolled to "CS260 Human Computer Interaction" and who viewed it ?
+Who enrolled to CS260 Human Computer Interaction and who viewed it ?
 which course has been viewed by SNK ?
-who are enrolled to "CS260 Human Computer Interaction" course ?
-who is enrolled to "CS260 Human Computer Interaction" course and has viewed this course ?
+who are enrolled to CS260 Human Computer Interaction course ?
+who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
 Which course has SNK viewed ?
-Who viewed the "CS260 Human Computer Interaction" course?
+Who viewed the CS260 Human Computer Interaction course?
 Which course has UZ viewed ?
 Which course has SA viewed ?
-who has view the "CS260 Human Computer Interaction" course ?
+who has view the CS260 Human Computer Interaction course ?
 Which course has MS viewed ?
-who has view the "CS260 Human Computer Interaction" course ?
-Who has viewed the "CS260 Human Computer Interaction" course and in which time?
-Who viewed the "CS260 Human Computer Interaction" ?
+who has view the CS260 Human Computer Interaction course ?
+Who has viewed the CS260 Human Computer Interaction course and in which time?
+Who viewed the CS260 Human Computer Interaction ?
 Which course been viewed by AM ?
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 Which course been viewed by UZ ?
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 Which course been viewed by HM ?
-Who viewed the "CS260 Human Computer Interaction" ?
+Who viewed the CS260 Human Computer Interaction ?
 Which course been viewed by HMA ?
-Who viewed the "CS260 Human Computer Interaction" ?
-at which time HM viewed the "CS260 Human Computer Interaction" course ?
-who viewed the "CS260 Human Computer Interaction" course 5 times ?
-at which time HM attended the "CS260 Human Computer Interaction" course ?
-who attended the "CS260 Human Computer Interaction" course 5 times ?
-Who viewed the "CS260 Human Computer Interaction" course and the Hamid Mukhtar course ?
+Who viewed the CS260 Human Computer Interaction ?
+at which time HM viewed the CS260 Human Computer Interaction course ?
+who viewed the CS260 Human Computer Interaction course 5 times ?
+at which time HM attended the CS260 Human Computer Interaction course ?
+who attended the CS260 Human Computer Interaction course 5 times ?
+Who viewed the CS260 Human Computer Interaction course and the Hamid Mukhtar course ?
 Which course been viewed by MH ?
-Who viewed the "CS260 Human Computer Interaction" course ?
+Who viewed the CS260 Human Computer Interaction course ?
 who added resource 125052?
 which ressources was added by HM?
-who viewed "CS260 Human Computer Interaction" course?
+who viewed CS260 Human Computer Interaction course?
 who viewed CS260-Lecture1-Rules Regulations course?
 which courses was viewed by MH and RA?
-who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, "CS260 Human Computer Interaction"?
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction?
 who viewed CS260-Lecture1-Rules Regulations course?
-who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, "CS260 Human Computer Interaction"?
-who viewed "CS260 Human Computer Interaction" course?
+who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction?
+who viewed CS260 Human Computer Interaction course?
 which courses was viewed by SA?
 who viewed CS260-Lecture1-Rules Regulations ressource?
-who viewed  "CS260 Human Computer Interaction" ressource?
+who viewed  CS260 Human Computer Interaction ressource?
 which resourses are been viewed by SA and ML?
 which courses was viewed by SNK?
 which ressources was viewed by SNK?
@@ -95,13 +95,13 @@ which courses are viewed by HS?
 Who had viewed at least one ressource?
 which ressources are viewed by HS?
 which course was viewed by ANB?
-who viewed a course or a resource related to "CS260 Human Computer Interaction"?
+who viewed a course or a resource related to CS260 Human Computer Interaction?
 which ressources was viewed by MFF?
 who viewed a course and attended it ?
 who viewed at least one course and attented at least one course?
 which course was viewed by UZ?
 which course was viewed by ANB?
-who viewed "CS260 Human Computer Interaction"?
+who viewed CS260 Human Computer Interaction?
 which course was viewed by MH?
 Who viewed at least one course and the ressource related to the course ?
 which course was viewed by HS?
@@ -120,8 +120,8 @@ who viewed at least one course ?
 who viewed at least one course and the ressource attached with each course ?
 which course was viewed by AM?
 who viewed at least one course and the ressource attached with each course ?
-who viewed the viewed "CS260 Human Computer Interaction" course?
-who viewed the viewed and attended the "CS260 Human Computer Interaction" course?
+who viewed the viewed CS260 Human Computer Interaction course?
+who viewed the viewed and attended the CS260 Human Computer Interaction course?
 which course was viewed by ANB?
 who viewed at least one course and the ressource attached with each course ?
 which course was viewed by MHUZ?
@@ -149,18 +149,18 @@ which ressource was viewed by SMH?
 which course was viewed by OBA?
 who viewed at least one course and the ressource attached to it?
 which courses was viewed by UZ?
-who viewed First Student Feedback(Hamid Mukhtar) and course "CS260 Human Computer Interaction"?
+who viewed First Student Feedback(Hamid Mukhtar) and course CS260 Human Computer Interaction?
 who viewed most courses ?
 which courses was viewed by MFF and DA?
 which courses SAEH viewed?
 who viewed at least one course ?
 which courses was viewed by DA?
 which ressource was viewed by DA?
-at which period HM viewed course "CS260 Human Computer Interaction"?
-who viewed "CS260 Human Computer Interaction" course?
+at which period HM viewed course CS260 Human Computer Interaction?
+who viewed CS260 Human Computer Interaction course?
 who viewed at least one course ?
 who viewed forum topic News forum?
-who viewed course "CS260 Human Computer Interaction" course and CS260-HCI-CourseOutline course ?
+who viewed course CS260 Human Computer Interaction course and CS260-HCI-CourseOutline course ?
 who viewed the same course and the same ressources as MH?
 who viewed at least one course ?
 which course was viewed by MS and SA?
@@ -177,7 +177,7 @@ which course was viewed by SMH?
 who did the same courses as OBA ?
 which courses was viewed by MHUZ?
 which course was viewed by DA?
-who viewed "CS260 Human Computer Interaction"?
+who viewed CS260 Human Computer Interaction?
 who viewed at least one course?
 which forum discussion was viewed by SA ?
 who viewed News forum course?
