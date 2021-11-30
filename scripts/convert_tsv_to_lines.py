@@ -64,5 +64,5 @@ if __name__ == '__main__':
     print('Successfully converted tsv data to line files file')
     print(f'New file saved at: {output_file}')
     
-    # python convert_tsv_to_lines.py ../ner/sentences_ner_data.tsv -o ../data/CRF_training/sentences_annotated_ner_data.txt
+    # python convert_tsv_to_lines.py ../ner/sentences_ner_training_data.tsv -o ../data/CRF_training/sentences_annotated_ner_data.txt
     # python convert_tsv_to_lines.py ../ner/questions_ner_data.tsv -o ../data/CRF_training/questions_annotated_ner_data.txt

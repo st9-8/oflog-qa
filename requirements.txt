@@ -1,6 +1,10 @@
 nltk
+pyemd
+spacy
+gensim
 rdflib
 pandas
 IPython
+jupyter
 pydotplus
-confiparser
+configparser

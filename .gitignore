@@ -3,3 +3,5 @@
 *.jpg
 __pycache__/
 .ipynb_checkpoints/
+*models/
+glove.6B.50d*

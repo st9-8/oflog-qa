@@ -154,14 +154,26 @@ if __name__ == '__main__':
                 if qword:
                     extra_features_file.write(qword)
                     extra_features_file.write('\n')
+                else:
+                    extra_features_file.write('-')
+                    extra_features_file.write('\n')
                 if qtype:
                     extra_features_file.write(qtype)
+                    extra_features_file.write('\n')
+                else:
+                    extra_features_file.write('-')
                     extra_features_file.write('\n')
                 if comparison_words:
                     extra_features_file.write(comparison_words)
                     extra_features_file.write('\n')
+                else:
+                    extra_features_file.write('-')
+                    extra_features_file.write('\n')
                 if delimiters:
                     extra_features_file.write(delimiters)
+                    extra_features_file.write('\n')
+                else:
+                    extra_features_file.write('-')
                     extra_features_file.write('\n')
                 extra_features_file.write('\n')
 

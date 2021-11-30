@@ -229,7 +229,7 @@ WP VBD NNP NNP NN
 who viewed CS260 Human Computer Interaction ressource ?
 WP VBD NNP NNP NNP NNP NN
 
-which resourses are been viewed by SA and ML ?
+which resourses have been viewed by SA and ML ?
 WDT NNS VBP VBN VBN IN NNP CC NNP
 
 which courses was viewed by SNK ?

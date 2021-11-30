@@ -1,0 +1,924 @@
+<DATA>
+    <QAPairs>
+        <question>
+        which course has been viewed by MMF ANB MU SA KK ?
+        WDT NN VBZ VBN VBN IN NNP NNP NNP NNP NNP
+        Other LogInformation LogAction LogAction LogAction Other LogUser LogUser LogUser LogUser LogUser
+        which
+        LogResource
+        -
+        by
+        course
+        </question>
+
+        <candidate>
+        MFF enrolled to CS260 Human Computer Interaction and ANB enrolled to CS260 Human Computer Interaction and MU enrolled to CS260 Human Computer Interaction and KK enrolled to CS260 Human Computer Interaction and SA enrolled to CS260 Human Computer Interaction and MFF has viewed course CS260 Human Computer Interaction and ANB has viewed course CS260 Human Computer Interaction and MU has viewed course CS260 Human Computer Interaction and SA has viewed course CS260 Human Computer Interaction and KK has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBD TO NNP NNP NNP NNP CC NNP VBD TO NNP NNP NNP NNP CC NNP VBD TO NNP NNP NNP NNP CC NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8309
+        CS260 Human Computer Interaction
+        </candidate>
+
+        <candidate>
+        DA enrolled to CS260 Human Computer Interaction and DA has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        1.0106
+        -
+        </candidate>
+
+        <candidate>
+        SA has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9770
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
+        WP VBZ VBN TO NNP NNP NNP NNP NN CC VBZ VBN DT NN
+        Other LogAction LogAction Other LogResource LogResource LogResource LogResource LogInformation Other LogAction LogAction Other LogInformation
+        who
+        LogUser
+        -
+        -
+        course
+        </question>
+
+        <candidate>
+        SA has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.3388
+        -
+        </candidate>
+
+        <candidate>
+        SA enrolled to CS260 Human Computer Interaction and SA has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4295
+        SA
+        </candidate>
+
+        <candidate>
+        NSC enrolled to CS260 Human Computer Interaction and NSC has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4238
+        NSC
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        which course has been viewed by NSC ?
+        WDT NN VBZ VBN VBN IN NNP
+        Other LogInformation LogAction LogAction LogAction Other LogUser
+        which
+        LogResource
+        -
+        by
+        course
+        </question>
+
+        <candidate>
+        NSC enrolled to CS260 Human Computer Interaction and NSC has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.6704
+        CS260 Human Computer Interaction
+        </candidate>
+
+        <candidate>
+        DA enrolled to CS260 Human Computer Interaction and DA has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9206
+        -
+        </candidate>
+
+        <candidate>
+        SA has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.6789
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        which course has been viewed by UUH or AS ?
+        WDT NN VBZ VBN VBN IN NNP CC NNP
+        Other LogInformation LogAction LogAction LogAction Other LogUser Other LogUser
+        which
+        LogResource
+        -
+        by
+        course
+        </question>
+
+        <candidate>
+        UUH enrolled to CS260 Human Computer Interaction and AS enrolled to CS260 Human Computer Interaction and UUH has viewed course CS260 Human Computer Interaction and AS has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8024
+        CS260 Human Computer Interaction
+        </candidate>
+
+        <candidate>
+        UZ has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.7637
+        -
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.8406
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who is enrolled to CS260 Human Computer Interaction course and has viewed this course ?
+        WP VBZ VBN TO NNP NNP NNP NNP NN CC VBZ VBN DT NN
+        Other LogAction LogAction Other LogResource LogResource LogResource LogResource LogInformation Other LogAction LogAction Other LogInformation
+        who
+        LogUser
+        -
+        -
+        course
+        </question>
+
+        <candidate>
+        MS enrolled to CS260 Human Computer Interaction and MS has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4054
+        MS
+        </candidate>
+
+        <candidate>
+        SAP has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.3388
+        -
+        </candidate>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4131
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        which course has been viewed by HS KAP MAZ HK ?
+        WDT NN VBZ VBN VBN IN NNP NNP NNP NNP
+        Other LogInformation LogAction LogAction LogAction Other LogUser LogUser LogUser LogUser
+        which
+        LogResource
+        -
+        by
+        course
+        </question>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9124
+        -
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.9589
+        -
+        </candidate>
+
+        <candidate>
+        RA has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.9405
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed at least one course and attented at least one course ?
+        WP VBD IN JJS CD NN CC VBN IN JJS CD NN
+        Other LogAction Other Other Other LogInformation Other LogAction Other Other Other LogInformation
+        who
+        LogUser
+        least, least
+        -
+        course
+        </question>
+
+        <candidate>
+        MS enrolled to CS260 Human Computer Interaction and MS has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9400
+        -
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.8406
+        -
+        </candidate>
+
+        <candidate>
+        MS enrolled to CS260 Human Computer Interaction and MS has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9400
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        Who viewed at least one course and the resource related to the course ?
+        WP VBD IN JJS CD NN CC DT NN VBN TO DT NN
+        Other LogAction Other Other Other LogInformation Other Other LogInformation LogAction Other Other LogInformation
+        who
+        LogUser
+        least
+        -
+        resource
+        </question>
+
+        <candidate>
+        MS enrolled to CS260 Human Computer Interaction and MS has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8481
+        -
+        </candidate>
+
+        <candidate>
+        UZ has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.7354
+        -
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.7383
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed most courses ?
+        WP VBD JJS NNS
+        Other LogAction Other LogInformation
+        who
+        LogUser
+        most
+        -
+        courses
+        </question>
+
+        <candidate>
+        UZ has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8674
+        -
+        </candidate>
+
+        <candidate>
+        MMA has viewed course CS260 Human Computer Interaction and MMA has viewed course CS260Lecture1Rules Regulations and MMA has viewed course CS260Lecture2Introduction HCI and MMA has viewed resource CS260 Human Computer Interaction and MMA has viewed resource CS260Lecture1Rules Regulations and MMA has viewed resource CS260Lecture2Introduction HCI and MMA has viewed resource CS260 Human Computer Interaction and MMA has viewed resource CS260Lecture1Rules Regulations and MMA has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.8763
+        MMA
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8776
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed the same course or the same resource as MMA?
+        WP VBD DT JJ NN CC DT JJ NNS IN NNP
+        Other LogAction Other Other LogInformation Other Other Other LogInformation Other LogUser ?
+        who
+        LogUser
+        same, same
+        -
+        course, resource
+        </question>
+
+        <candidate>
+        MMA has viewed course CS260 Human Computer Interaction and DA has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.6973
+        DA
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.8501
+        -
+        </candidate>
+        <candidate>
+        MMA has viewed course CS260 Human Computer Interaction and MMA has viewed course CS260Lecture1Rules Regulations and MMA has viewed course CS260Lecture2Introduction HCI and MMA has viewed resource CS260 Human Computer Interaction and MMA has viewed resource CS260Lecture1Rules Regulations and MMA has viewed resource CS260Lecture2Introduction HCI and MMA has viewed resource CS260 Human Computer Interaction and MMA has viewed resource CS260Lecture1Rules Regulations and MMA has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.6101
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who did the same thing as HM ?
+        WP VBD DT JJ NN IN NNP
+        Other LogAction Other Other Other Other LogUser
+        who
+        LogUser
+        same
+        -
+        thing
+        </question>
+
+        <candidate>
+        SA has viewed course CS260 Human Computer Interaction and ANB has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        1.0933
+        -
+        </candidate>
+
+        <candidate>
+        MOJ has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        1.1046
+        -
+        </candidate>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8798
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed forum topics ?
+        WP VBD NN NNS
+        Other LogAction LogInformation LogInformation
+        who
+        LogUser
+        -
+        -
+        forum topics
+        </question>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction and RAK has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.6594
+        ANB
+        </candidate>
+
+        <candidate>
+        MOJ has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8289
+        -
+        </candidate>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction and SAEH has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8099
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed News forum course ?
+        WP VBD NNP NN NN
+        Other LogAction LogResource LogResource LogInformation
+        who
+        LogUser
+        -
+        -
+        course
+        </question>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.5500
+        ANB
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.7019
+        -
+        </candidate>
+
+        <candidate>
+        DA enrolled to CS260 Human Computer Interaction and DA has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8554
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who did the same thing as HM ?
+        WP VBD DT JJ NN IN NNP
+        Other LogAction Other Other Other Other LogUser
+        who
+        LogUser
+        same
+        -
+        thing
+        </question>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction and SAEH has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9848
+        SAEH
+        </candidate>
+
+        <candidate>
+        DA enrolled to CS260 Human Computer Interaction and DA has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        1.1372
+        -
+        </candidate>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8798
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who added resource 13529 ?
+        WP VBD NN CD
+        Other LogAction LogInformation LogResource
+        who
+        LogUser
+        -
+        -
+        resource
+        </question>
+
+        <candidate>
+        HM has added the resource 13529 and HM has added the resource CS260Lecture1Rules Regulations and HM has added the resource 125053
+        NNP VBZ VBN DT NN CD CC NNP VBZ VBN DT NN NN NN CC NNP VBZ VBN DT NN CD
+        LogUser LogAction LogAction Other LogInformation LogResource Other LogUser LogAction Other LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction Other LogInformation LogResource
+        0.5537
+        HM
+        </candidate>
+
+        <candidate>
+        SAP has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9587
+        -
+        </candidate>
+
+        <candidate>
+        SAP has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9587
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        at which time HM viewed the CS260 Human Computer Interaction course ?
+        IN WDT NN NNP VBD DT NNP NNP NNP NNP NN
+        Other Other Other LogUser LogAction Other LogResource LogResource LogResource LogResource LogInformation
+        which
+        LogResource
+        -
+        -
+        course
+        </question>
+
+        <candidate>
+        SAP has viewed course CS260 Human Computer Interaction
+        IN VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4074
+        -
+        </candidate>
+
+        <candidate>
+        MH has viewed course CS260 Human Computer Interaction and RA has viewed course CS260 Human Computer Interaction and MH has viewed course CS260Lecture1Rules Regulations and RA has viewed course CS260Lecture1Rules Regulations and MH has viewed course CS260Lecture2Introduction HCI and RA has viewed course CS260Lecture2Introduction HCI and MH has viewed resource CS260 Human Computer Interaction and MH has viewed resource CS260Lecture1Rules Regulations and MH has viewed resource CS260Lecture2Introduction HCI and MH has viewed resource CS260 Human Computer Interaction and MH has viewed resource CS260Lecture1Rules Regulations and MH has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.6358
+        -
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4164
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed the CS260 Human Computer Interaction course 4 times ?
+        WP VBD DT NNP NNP NNP NNP NN CD NNS
+        Other LogAction Other LogResource LogResource LogResource LogResource LogInformation Other Other
+        who
+        LogUser
+        -
+        -
+        course
+        </question>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4324
+        HM
+        </candidate>
+
+        <candidate>
+        HM has added the resource 13529 and HM has added the resource CS260Lecture1Rules Regulations and HM has added the resource 125053
+        NNP VBZ VBN DT NN CD CC NNP VBZ VBN DT NN NNP NNP CC NNP VBZ VBN DT NN CD
+        LogUser LogAction LogAction Other LogInformation LogResource Other LogUser LogAction LogAction Other LogInformation LogResource LogResource Other LogUser LogAction LogAction Other LogInformation LogResource
+        1.0949
+        -
+        </candidate>
+
+        <candidate>
+        MH has viewed course CS260 Human Computer Interaction and RA has viewed course CS260 Human Computer Interaction and MH has viewed course CS260Lecture1Rules Regulations and RA has viewed course CS260Lecture1Rules Regulations and MH has viewed course CS260Lecture2Introduction HCI and RA has viewed course CS260Lecture2Introduction HCI and MH has viewed resource CS260 Human Computer Interaction and MH has viewed resource CS260Lecture1Rules Regulations and MH has viewed resource CS260Lecture2Introduction HCI and MH has viewed resource CS260 Human Computer Interaction and MH has viewed resource CS260Lecture1Rules Regulations and MH has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.6456
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who attended the Mathematics course at least 1 time ?
+        WP VBD DT NNP NN IN JJS CD NNS
+        Other LogAction Other LogResource LogInformation Other Other Other Other
+        who
+        LogUser
+        least
+        -
+        course
+        </question>
+
+        <candidate>
+        RAK has viewed course CS260 Human Computer Interaction and UUH has viewed course Mathematics and HM has attended Mathematics course and MFF has attended Mathematics course
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNS CC NNP VBZ VBN NNS NN CC NNP VBZ VBN NNS NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource Other LogUser LogAction LogAction LogResource LogInformation Other LogUser LogAction LogAction LogResource LogInformation
+        0.6022
+        HM
+        </candidate>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.9003
+        -
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.9792
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed CS260Lecture1Rules Regulations resource ?
+        WP VBD NNP NNP NN
+        Other LogAction LogResource LogResource LogInformation
+        who
+        LogUser
+        -
+        -
+        resource
+        </question>
+
+        <candidate>
+        RA has viewed course CS260 Human Computer Interaction and RA has viewed course CS260Lecture46TheHuman and RA has viewed course CS260Lecture2Introduction HCI and RA has viewed course CS260Lecture1Rules Regulations and RA has viewed course CS260Lecture3Designof EverydayThings and RA has viewed resource CS260 Human Computer Interaction and RA has viewed resource CS260Lecture46TheHuman and RA has viewed resource CS260Lecture2Introduction HCI and RA has viewed resource CS260Lecture1Rules Regulations and RA has viewed resource CS260Lecture3Designof EverydayThings and RA has viewed resource CS260 Human Computer Interaction and RA has viewed resource CS260Lecture46TheHuman and RA has viewed resource CS260Lecture2Introduction HCI and RA has viewed resource CS260Lecture1Rules Regulations and RA has viewed resource CS260Lecture3Designof EverydayThings and RA has viewed resource CS260 Human Computer Interaction and RA has viewed resource CS260Lecture46TheHuman and RA has viewed resource CS260Lecture2Introduction HCI and RA has viewed resource CS260Lecture1Rules Regulations and RA has viewed resource CS260Lecture3Designof EverydayThings and RA has viewed resource CS260 Human Computer Interaction and RA has viewed resource CS260Lecture46TheHuman and RA has viewed resource CS260Lecture2Introduction HCI and RA has viewed resource CS260Lecture1Rules Regulations and RA has viewed resource CS260Lecture3Designof EverydayThings
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.6074
+        RA
+        </candidate>
+
+        <candidate>
+        MFF has viewed resource CS260Lecture1Rules Regulations and ML has viewed resource CS260Lecture1Rules Regulations and SA has viewed resource CS260 Human Computer Interaction and ML has viewed resource CS260 Human Computer Interaction and SA has viewed resource CS260Lecture2Introduction HCI and ML has viewed resource CS260Lecture2Introduction HCI and SA has viewed course CS260Lecture1Rules Regulations and ML has viewed course CS260Lecture1Rules Regulations and SA has viewed course CS260 Human Computer Interaction and ML has viewed course CS260 Human Computer Interaction and SA has viewed course CS260Lecture2Introduction HCI and ML has viewed course CS260Lecture2Introduction HCI and SA has viewed resource CS260Lecture1Rules Regulations and ML has viewed resource CS260Lecture1Rules Regulations and SA has viewed resource CS260 Human Computer Interaction and ML has viewed resource CS260 Human Computer Interaction and SA has viewed resource CS260Lecture2Introduction HCI and ML has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.6562
+        MFF
+        </candidate>
+
+        <candidate>
+        SAP has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.7633
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        which courses were viewed by MH and RA ?
+        WDT VBZ VBD VBN IN NNP CC NNP
+        Other LogInformation LogAction LogAction Other LogUser Other LogUser
+        which
+        LogResource
+        -
+        by
+        courses
+        </question>
+
+        <candidate>
+        RA has viewed course CS260 Human Computer Interaction and RA has viewed course CS260 Human Computer Interaction and DA has viewed course CS260 Human Computer Interaction and SA has viewed course CS260Lecture1Rules Regulations and RA has viewed course CS260Lecture1Rules Regulations and DA has viewed course CS260Lecture1Rules Regulations and SA has viewed course CS260Lecture2Introduction HCI and RA has viewed course CS260Lecture2Introduction HCI and DA has viewed course CS260Lecture2Introduction HCI and RA has viewed resource CS260 Human Computer Interaction and DA has viewed resource CS260 Human Computer Interaction and RA has viewed resource CS260Lecture1Rules Regulations and DA has viewed resource CS260Lecture1Rules Regulations and RA has viewed resource CS260Lecture2Introduction HCI and DA has viewed resource CS260Lecture2Introduction HCI and DA has viewed resource CS260 Human Computer Interaction and DA has viewed resource CS260Lecture1Rules Regulations and DA has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.7894
+        -
+        </candidate>
+
+        <candidate>
+        SA enrolled to CS260 Human Computer Interaction and SA has viewed course CS260 Human Computer Interaction
+        NNP VBD TO NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction Other LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        1.0197
+        -
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction and ANB has viewed course News forum and ANB has viewed forum topic CS260 Human Computer Interaction and ANB has viewed forum topic News forum
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NN CC NNP VBZ VBN JJ NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN NNP NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource
+        0.9605
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        Which courses were viewed by SAEH ?
+        WDT NN VBD VBN IN NNP
+        Other LogInformation LogAction LogAction Other LogUser
+        which
+        LogResource
+        -
+        by
+        courses
+        </question>
+
+        <candidate>
+        SAEH has viewed course CS260 Human Computer Interaction and SAEH has viewed course CS260Lecture1Rules Regulations and SAEH has viewed course CS260Lecture2Introduction HCI and SAEH has viewed resource CS260 Human Computer Interaction and SAEH has viewed resource CS260Lecture1Rules Regulations and SAEH has viewed resource CS260Lecture2Introduction HCI and SAEH has viewed resource CS260 Human Computer Interaction and SAEH has viewed resource CS260Lecture1Rules Regulations and SAEH has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.7564
+        CS260 Human Computer Interaction, CS260Lecture1Rules Regulations, CS260Lecture2Introduction HCI
+        </candidate>
+
+        <candidate>
+        UUH has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.7575
+        -
+        </candidate>
+
+        <candidate>
+        SNK has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8717
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        which courses were viewed by DA ?
+        WDT NN VBD VBN IN NNP
+        Other LogInformation LogAction LogAction Other LogUser
+        which
+        LogResource
+        -
+        by
+        courses
+        </question>
+
+        <candidate>
+        DA has viewed course CS260 Human Computer Interaction and DA has viewed course CS260HCICourseOutline and DA has viewed resource CS260 Human Computer Interaction and DA has viewed resource CS260HCICourseOutline
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NN
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource
+        0.5536
+        CS260 Human Computer Interaction, CS260HCICourseOutline
+        </candidate>
+
+        <candidate>
+        DA has viewed resource CS260Lecture7The Computer
+        NNP VBZ VBN NN NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.5221
+        CS260Lecture7The Computer
+        </candidate>
+
+        <candidate>
+        SA has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8292
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who updated at least one resource ?
+        WP VBD IN JJS CD NN
+        Other LogAction Other Other Other LogInformation
+        who
+        LogUser
+        least
+        -
+        resource
+        </question>
+
+        <candidate>
+        HM has updated the resource 132526 and HM has added the resource 132526 and HM has updated the resource Assignment1
+        NNP VBZ VBN DT NN CD CC NNP VBZ VBN DT NN CD CC NNP VBZ VBN DT NN NNP
+        LogUser LogAction LogAction Other LogInformation LogResource Other LogUser LogAction LogAction Other LogInformation LogResource Other LogUser LogAction LogAction Other LogInformation LogResource
+        0.5928
+        HM
+        </candidate>
+
+        <candidate>
+        HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction and HM has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource LogResource LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        1.0112
+        -
+        </candidate>
+
+        <candidate>
+        SAEH has viewed course CS260 Human Computer Interaction and SAEH has viewed course CS260Lecture1Rules Regulations and SAEH has viewed course CS260Lecture2Introduction HCI and SAEH has viewed resource CS260 Human Computer Interaction and SAEH has viewed resource CS260Lecture1Rules Regulations and SAEH has viewed resource CS260Lecture2Introduction HCI and SAEH has viewed resource CS260 Human Computer Interaction and SAEH has viewed resource CS260Lecture1Rules Regulations and SAEH has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.8409
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        which forum discussion ML has viewed ?
+        WDT NN NN NNP VBZ VBN
+        Other LogInformation LogInformation LogUser LogAction LogAction
+        which
+        LogResource
+        -
+        -
+        forum discussion
+        </question>
+
+        <candidate>
+        ML has viewed forum discussion A tricoder and ML has viewed forum discussion General HCI Discussions and ML has viewed forum discussion CS260 Human Computer Interaction
+        NNP VBZ VBN NN NN DT NNP CC NNP VBZ VBN NN NN NN NN NN CC NNP VBZ VBN NN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogInformation LogResource LogResource LogResource LogResource
+        0.3474
+        A tricoder, General HCI Discussions, CS260 Human Computer Interaction
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.8420
+        -
+        </candidate>
+
+        <candidate>
+        MH has viewed course CS260 Human Computer Interaction and RA has viewed course CS260 Human Computer Interaction and MH has viewed course CS260Lecture1Rules Regulations and RA has viewed course CS260Lecture1Rules Regulations and MH has viewed course CS260Lecture2Introduction HCI and RA has viewed course CS260Lecture2Introduction HCI and MH has viewed resource CS260 Human Computer Interaction and MH has viewed resource CS260Lecture1Rules Regulations and MH has viewed resource CS260Lecture2Introduction HCI and MH has viewed resource CS260 Human Computer Interaction and MH has viewed resource CS260Lecture1Rules Regulations and MH has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.8196
+        -
+        </candidate>
+    </QAPairs>
+
+    <QAPairs>
+        <question>
+        who viewed a course or a resource related to CS260 Human Computer Interaction ?
+        WP VBD DT NN CC DT NN VBN TO NNP NNP NNP NNP
+        Other LogAction LogInformation LogInformation Other LogInformation LogInformation LogAction LogAction LogResource LogResource LogResource LogResource
+        who
+        LogUser
+        -
+        resource
+        </question>
+
+        <candidate>
+        MA has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.3956
+        MA
+        </candidate>
+
+        <candidate>
+        ANB has viewed course CS260 Human Computer Interaction
+        NNP VBZ VBN NN NNP NNP NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource
+        0.4178
+        ANB
+        </candidate>
+
+        <candidate>
+        SAEH has viewed course CS260 Human Computer Interaction and SAEH has viewed course CS260Lecture1Rules Regulations and SAEH has viewed course CS260Lecture2Introduction HCI and SAEH has viewed resource CS260 Human Computer Interaction and SAEH has viewed resource CS260Lecture1Rules Regulations and SAEH has viewed resource CS260Lecture2Introduction HCI and SAEH has viewed resource CS260 Human Computer Interaction and SAEH has viewed resource CS260Lecture1Rules Regulations and SAEH has viewed resource CS260Lecture2Introduction HCI
+        NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP CC NNP VBZ VBN NN NNP NNP NNP NNP CC NNP VBZ VBN NN NNP NNP CC NNP VBZ VBN JJ NNP NNP
+        LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource Other LogUser LogAction LogAction LogInformation LogResource LogResource
+        0.4028
+        SAEH
+        </candidate>
+    </QAPairs>
+</DATA>
