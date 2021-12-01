@@ -1,4 +1,4 @@
-which course has been viewed by MMF, ANB, MU, SA, KK ?
+which course has been viewed by MMF ANB MU SA KK ?
 which
 LogResource
 -
@@ -10,7 +10,7 @@ LogUser
 human
 -
 
-which course has been viewed by MA, MH ?
+which course has been viewed by MA MH ?
 which
 LogResource
 -
@@ -124,7 +124,7 @@ LogResource
 -
 by
 
-which course has been viewed by HS, KAP, MAZ, HK ?
+which course has been viewed by HS KAP MAZ HK ?
 which
 LogResource
 -
@@ -373,7 +373,7 @@ human
 Who viewed the CS260 Human Computer Interaction course and the Hamid Mukhtar course ?
 who
 LogUser
-human, hamid
+human hamid
 -
 
 Which course been viewed by MH ?
@@ -418,10 +418,10 @@ LogResource
 -
 by
 
-who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction?
+who viewed CS260-Lecture1-Rules Regulations resource CS260-Lecture2-Introduction HCI ressources CS260 Human Computer Interaction?
 who
 LogUser
-cs260-lecture1-rules, human
+cs260-lecture1-rules human
 -
 
 who viewed CS260-Lecture1-Rules Regulations course?
@@ -430,10 +430,10 @@ LogUser
 cs260-lecture1-rules
 -
 
-who viewed CS260-Lecture1-Rules Regulations resource, CS260-Lecture2-Introduction HCI ressources, CS260 Human Computer Interaction?
+who viewed CS260-Lecture1-Rules Regulations resource CS260-Lecture2-Introduction HCI ressources CS260 Human Computer Interaction?
 who
 LogUser
-cs260-lecture1-rules, human
+cs260-lecture1-rules human
 -
 
 who viewed CS260 Human Computer Interaction course?
@@ -601,7 +601,7 @@ LogUser
 who viewed at least one course and attented at least one course?
 who
 LogUser
-least, least
+least least
 -
 
 which course was viewed by UZ?
@@ -907,7 +907,7 @@ by
 who viewed First Student Feedback(Hamid Mukhtar) and course CS260 Human Computer Interaction?
 who
 LogUser
-first, hamid, human
+first hamid human
 -
 
 who viewed most courses ?
@@ -973,13 +973,13 @@ LogUser
 who viewed course CS260 Human Computer Interaction course and CS260-HCI-CourseOutline course ?
 who
 LogUser
-human, cs260-hci-courseoutline
+human cs260-hci-courseoutline
 -
 
 who viewed the same course and the same ressources as MH?
 who
 LogUser
-same, same
+same same
 -
 
 who viewed at least one course ?
