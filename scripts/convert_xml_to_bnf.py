@@ -181,7 +181,7 @@ if __name__ == '__main__':
         sys.exit(1)
 
     file_path = Path(sys.argv[1])
-    output = file_path.parent / 'qa_training.train.bnf'
+    output = file_path.parent / file_path.name.replace('xml', 'bnf')
 
     if len(sys.argv) == 4:
         if sys.argv[2] == '-o':

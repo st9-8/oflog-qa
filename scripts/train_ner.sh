@@ -17,3 +17,16 @@ java -cp ../../StanfordNER/stanford-ner-4.2.0/stanford-ner-2020-11-17/stanford-n
 # Testing questions NER tagger
 
 java -cp ../../StanfordNER/stanford-ner-4.2.0/stanford-ner-2020-11-17/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ../ner/questions-ner-model.ser.gz -outputFormat tabbedEntities -textFile test_questions.txt > questions_ner_tagged.tsv
+
+
+# Train CRF model
+crfsuite learn -p c1=0.0 -p c2=1.0 -e2 -m oflog-qa.model ../data/CRF_training/qa_training.train.bnf
+
+# Test CRF model
+
+# ON Test data
+crfsuite  tag -m oflog-qa.model -tpri ../data/CRF_training/qa_test.bnf
+
+# ON Train data
+
+crfsuite  tag -m oflog-qa.model -tpri ../data/CRF_training/qa_training.train.bnf
