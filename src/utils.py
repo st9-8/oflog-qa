@@ -7,6 +7,7 @@ from settings import DATA_FOLDER, DATE_RANGE, DATE, ACTIONS_FILE, SENTENCES_FILE
 import csv
 import sys
 import logging
+import numpy as np
 import pandas as pd
 
 
@@ -42,8 +43,8 @@ def discretize_data(df):
 
     frames = {}
     count = 1
-    for i in range(len(time_frames)-1):
-        frames[count] = df_date_index[time_frames[i]:time_frames[i+1]]
+    for i in range(len(time_frames) - 1):
+        frames[count] = df_date_index[time_frames[i]:time_frames[i + 1]]
         count += 1
 
     return frames
@@ -54,7 +55,7 @@ def extract_start_end_date(df):
         Utility function used to get start date and end date of logs data
     """
     start_date, end_data = df.loc[df.index[0],
-                                  DATE], df.loc[df.index[-1], DATE]
+    DATE], df.loc[df.index[-1], DATE]
 
     return start_date, end_data
 
@@ -73,7 +74,7 @@ def train_test_split(df, test_size=0.3):
 
     train_size = int(df.shape[0] * (1 - test_size))
     train = df[:train_size]
-    test = df[train_size+1:]
+    test = df[train_size + 1:]
 
     return train, test
 
@@ -82,10 +83,13 @@ def extract_action(action):
     """
         Utility function used to extract the exact action
     """
-
-    data = action.split('(')
-    action_desc = '-'.join(data[0].strip().split())
-    uri = data[1].replace(')', '').strip()
+    if '(' in action or ')' in action:
+        data = action.split('(')
+        action_desc = '-'.join(data[0].strip().split())
+        uri = data[1].replace(')', '').strip()
+    else:
+        action_desc = '-'.join(action.split())
+        uri = f'actions/{action}'
 
     return uri, action_desc
 
@@ -94,9 +98,13 @@ def extract_actions_from_data(df):
     """ 
         Function used to extract all possibles actions from the logs data
     """
+
     def function(action):
-        data = action.split('(')
-        action_desc = '-'.join(data[0].strip().split())
+        if '(' in action or ')' in action:
+            data = action.split('(')
+            action_desc = '-'.join(data[0].strip().split())
+        else:
+            action_desc = '-'.join(action.split())
         return action_desc
 
     actions = list(df['action'].apply(function).unique())
@@ -142,7 +150,11 @@ def construct_sentences(g, key):
             verb = verb_by_action.get(r['action_name'].toPython())
 
             if verb:
-                sentence_chunk = f"{r['subject_name']} {verb} {r['resource_info']}"
+                if not r['resource_info'] != np.isnan:
+                    sentence_chunk = f"{r['subject_name']} {verb} {r['resource_info']}"
+                else:
+                    sentence_chunk = f"{r['subject_name']} {verb}"
+
                 sentences.append(sentence_chunk)
                 empty = False
                 logging.info(f'Frame {key}: {sentence_chunk}')

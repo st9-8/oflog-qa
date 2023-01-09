@@ -14,12 +14,11 @@ import logging
 import pydotplus
 import pandas as pd
 
-
 # Load oflog ontology
 oflog = Namespace(BASE_URI)
 
 
-def extract_triples():
+def extract_triples(construct=True, draw=True):
     """
         Function used to read and parse logs data
     """
@@ -61,8 +60,11 @@ def extract_triples():
 
         logging.info(f'{len(g)} triples have been extracted from frame {key}.')
 
-        draw_graph(g, key)
-        construct_sentences(g, key)
+        if draw:
+            draw_graph(g, key)
+
+        if construct:
+            construct_sentences(g, key)
 
     logging.info(f"All RDF graphs have been stored in '{GRAPH_FOLDER}'.")
 
@@ -83,4 +85,4 @@ def draw_graph(g, key):
 
 
 if __name__ == '__main__':
-    extract_triples()
+    extract_triples(draw=False)

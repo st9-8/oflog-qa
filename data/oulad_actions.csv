@@ -1,0 +1,21 @@
+action,verb
+resource,has viewed resource
+oucontent,has viewed a course content
+url,has viewed url
+homepage,has viewed an homepage
+subpage,has viewed a subpage
+glossary,has viewed glossary
+forumng,has viewed forum
+oucollaborate,has collaborate
+dataplus,has added data
+quiz,has passed a quiz
+ouelluminate,
+sharedsubpage,has shared a subpage
+questionnaire,has answer a questionnaire
+page,has viewed page
+externalquiz,has passed an external quiz
+ouwiki,has viewed wiki
+dualpane,has displayed a dualpane
+repeatactivity,has repeated an activity
+folder,has opened a folder
+htmlactivity,has performed html activity
